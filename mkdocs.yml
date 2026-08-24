@@ -1,0 +1,61 @@
+site_name: Nautilus
+site_description: A spiral method for conducting human realization with AI agentic support
+site_url: ""
+use_directory_urls: true
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.suggest
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+
+nav:
+  - Home: index.md
+  - Method:
+      - Overview: method/index.md
+      - Principles: method/principles.md
+      - Aristotelian influences: method/aristotelian-influences.md
+      - Nautilus Family: method/family.md
+      - Identity: method/identity.md
+  - Realization Cycle:
+      - Conceptual Arc: method/conceptual-arc.md
+      - Human Territory: method/human-territory.md
+      - Agentic Map: method/agentic-map.md
+      - Journey: method/journey.md
+      - Participant: method/participant.md
+      - Mission: method/mission.md
+      - Delivery: method/delivery.md
+      - Evidence: method/evidence.md
+      - Realization: method/realization.md
+      - Impact: method/impact.md
+      - Integration: method/integration.md
+  - Spiral Growth:
+      - Cycle dynamics: method/realization-cycle.md
+      - Reliable continuity: method/reliable-continuity.md
+      - Realization intelligence: method/realization-intelligence.md
+  - Structure:
+      - Grammar: method/grammar.md
+      - Mission Integrity Test: method/integrity-test.md
+      - Glossary: method/glossary.md
+  - Canonical cases:
+      - Overview: cases/index.md
+      - Assessment retry: cases/retry-assessment.md
+      - Book logistics: cases/book-logistics.md
+  - Presentations:
+      - Index: presentations/README.md
+      - Introduction: presentations/nautilus-method-intro/slides.md
+      - Facilitator notes: presentations/nautilus-method-intro/facilitator-notes.md
+  - Viewer: viewer.md
+  - Other languages: other-languages.md
