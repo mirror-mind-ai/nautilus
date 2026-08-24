@@ -2,7 +2,7 @@
 
 # DS-002, Define Value Lenses and Lean Influence
 
-**Status:** 🟡 Planned
+**Status:** 🔵 Pulled
 
 ---
 
