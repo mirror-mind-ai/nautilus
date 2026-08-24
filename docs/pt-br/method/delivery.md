@@ -1,16 +1,16 @@
 # Entrega
 
-Entrega é aquilo que uma [Missão](mission.md) produz, transforma ou torna disponível na [jornada](journey.md).
+Entrega é aquilo que uma [Missão](mission.md) produz, transforma ou torna disponível na [Jornada](journey.md) como portador candidato de valor.
 
-Ela pode ser um artefato, uma decisão, uma mudança de estado, uma publicação, uma implementação, uma conversa estruturada, uma prática ajustada ou qualquer resultado reconhecível que dê forma ao trabalho.
+Ela pode ser um artefato, uma decisão, uma mudança de estado, uma publicação, uma implementação, uma conversa estruturada, uma prática ajustada ou qualquer resultado reconhecível que dê forma ao trabalho e possa sustentar [Geração de Valor](value-generation.md).
 
 ## Por que o conceito existe
 
-Nautilus distingue esforço, Entrega e Realização.
+Nautilus distingue esforço, Entrega, Realização, Geração de Valor e Impacto.
 
-Esforço é a energia investida. Entrega é a forma produzida ou a mudança disponibilizada. [Realização](realization.md) é o reconhecimento de que essa forma se tornou disponível no [Território Humano](human-territory.md), foi sustentada por [Evidências](evidence.md) e pode ser integrada à Jornada.
+Esforço é a energia investida. Entrega é a forma produzida ou a mudança disponibilizada. [Realização](realization.md) é o reconhecimento de que essa forma levou valor ao [Território Humano](human-territory.md), foi sustentada por [Evidências](evidence.md) e pode ser integrada à Jornada.
 
-Uma Entrega pode existir sem Realização. Um artigo salvo como rascunho local é uma Entrega, mas ainda não é uma Realização pública. Um artigo publicado e acessível pode ser Realização quando sua disponibilidade no Território Humano esperado é evidenciada. Leitura, uso, ressonância, citação ou resposta de mercado pertencem ao [Impacto](impact.md).
+Uma Entrega pode existir sem Realização ou Geração de Valor. Um artigo salvo como rascunho local é uma Entrega, mas ainda não é uma Realização pública. Um artigo publicado e acessível pode ser Realização quando sua disponibilidade no Território Humano esperado é evidenciada. Leitura, uso, ressonância, citação ou resposta de mercado pertencem ao [Impacto](impact.md).
 
 ## Tipos possíveis de Entrega
 
@@ -48,6 +48,7 @@ Essa distinção protege o método de confundir produção com avanço. Uma jorn
 
 Uma Entrega está bem nomeada quando os [Participantes](participant.md) conseguem responder:
 
+- que valor esta Entrega pretende carregar;
 - o que foi produzido, transformado ou disponibilizado;
 - a que Missão essa Entrega responde;
 - onde essa Entrega existe ou pode ser observada;

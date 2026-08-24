@@ -1,8 +1,8 @@
 # Realização
 
-Realização é o reconhecimento de que um movimento atravessou a [Jornada](journey.md), tocou o [Território Humano](human-territory.md) e tornou algo disponível ali, sustentado por evidências.
+Realização é o meio disciplinado pelo qual a [Geração de Valor](value-generation.md) se torna disponível no [Território Humano](human-territory.md).
 
-Ela não é apenas tarefa concluída, nem apenas sensação de progresso, nem o impacto posterior daquilo que foi produzido. Uma Realização acontece quando os [Participantes](participant.md) conseguem reconhecer o que foi tornado real e disponível no campo humano da Jornada, por que isso importou, que evidências sustentam o avanço e que aprendizado pode ser integrado para o próximo giro.
+Ela é o reconhecimento de que um movimento atravessou a [Jornada](journey.md), tocou o Território Humano e tornou algo disponível ali, sustentado por evidências. Ela não é apenas tarefa concluída, nem apenas sensação de progresso, nem o impacto posterior daquilo que foi produzido. Uma Realização acontece quando os [Participantes](participant.md) conseguem reconhecer o que foi tornado real e disponível no campo humano da Jornada, que valor isso carrega, que evidências sustentam o avanço e que aprendizado pode ser integrado para o próximo giro.
 
 ## Por que o conceito existe
 
@@ -12,7 +12,7 @@ Uma conversa pode ser intensa e não mudar nada. Uma tarefa pode ser concluída 
 
 Exemplos simples ajudam a ver a fronteira. Um livro escrito, mas nunca disponibilizado, pode conter muito trabalho sem ter produzido a Realização pretendida. Um livro publicado pode ser uma Realização quando ganhou forma e se tornou disponível para consumo no Território Humano; a existência ou quantidade de leitores é [Impacto](impact.md), não Realização. Uma reunião pode terminar com ata e encaminhamentos, mas sem decisão real, sem responsabilidade assumida e sem mudança no próximo movimento. Um plano pode estar bem formatado e ainda assim não aumentar a capacidade da Jornada.
 
-Realização nomeia a passagem em que o trabalho deixa de ser apenas esforço, produção ou registro e passa a fazer diferença reconhecível no Território Humano. Essa passagem pode ser compreendida, em fundo filosófico, como uma atualização de potência em ato. Ver [Influências aristotélicas](aristotelian-influences.md).
+Realização nomeia a passagem em que o trabalho deixa de ser apenas esforço, produção ou registro e passa a tornar valor disponível no Território Humano. Essa passagem pode ser compreendida, em fundo filosófico, como uma atualização de potência em ato. Sua orientação para valor também lhe dá uma dimensão ética. Ver [Influências aristotélicas](aristotelian-influences.md).
 
 ## Realização e Território Humano
 
@@ -40,7 +40,7 @@ As perguntas centrais são simples:
 
 Publicar um livro pode ser Realização. Ter leitores é Impacto. A quantidade de leitores, a qualidade das respostas, citações, recomendações, desempenho de mercado ou transformação na vida dos leitores são Impacto.
 
-O método continua centrado em Realização porque Realização nomeia a parte que os Participantes conseguem conduzir com mais agência: dar forma, disponibilizar, evidenciar e integrar. Impacto pode ser desenhado, convidado, aferido e aprendido, mas não controlado do mesmo modo.
+O método permanece operacionalmente disciplinado pela Realização porque Realização nomeia a parte que os Participantes conseguem conduzir com mais agência: dar forma, disponibilizar, evidenciar e integrar. Seu centro mais amplo é a Geração de Valor. Impacto pode ser desenhado, convidado, aferido e aprendido, mas não controlado do mesmo modo.
 
 ## Realização e Evidência
 

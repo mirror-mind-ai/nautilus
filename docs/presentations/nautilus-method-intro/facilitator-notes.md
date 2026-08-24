@@ -6,9 +6,9 @@ This deck introduces Nautilus Agentic Method as a living method, not as a finish
 
 Audience should leave with three recognitions:
 
-- Nautilus is about realization with coherence, not task management.
-- The method is part of a four-body family: Method, Protocol, Mirror Extension, and Harness.
-- The current version is intentionally minimal and grows by semantic chambers.
+- Nautilus is about value generation with coherence, not task management.
+- Realization is the disciplined passage through which value becomes available in the Human Territory.
+- Impact is the later response of the world, assessable and learnable, but not controlled in the same way.
 
 ## Suggested pacing
 
@@ -18,13 +18,13 @@ The strongest rhythm is contemplative rather than explanatory. Let the nautilus 
 
 ## Narrative arc
 
-Open with the promise: effort becomes recognizable realization.
+Open with the promise: effort becomes recognizable value.
 
-Then name the failure mode of agentic work: acceleration without continuity, outputs without realization, and traces without integration.
+Then name the failure mode of agentic work: acceleration without continuity, outputs without value, and traces without integration.
 
-Introduce Nautilus as a method for conducting human-agentic realization in a spiral.
+Introduce Nautilus as a spiral method for value generation with AI agentic support.
 
-Move through Human Territory and Agentic Map before the operational concepts. This helps the audience understand that agents work through representations, while realization must happen in the human field.
+Move through Human Territory and Agentic Map before the operational concepts. This helps the audience understand that agents work through representations, while value must become available in the human field through Realization.
 
 The central vocabulary should be presented as an arc, not as a taxonomy. The method is experimental. Its discipline is to add one chamber at a time.
 
@@ -32,7 +32,7 @@ The central vocabulary should be presented as an arc, not as a taxonomy. The met
 
 For a technical audience, emphasize Agentic Map, Evidence, and the analogy between Evidence of Realization and tests or quality checks.
 
-For a leadership or learning audience, emphasize Journey, Human Territory, Realization, and Integration.
+For a leadership or learning audience, emphasize Value Generation, Journey, Human Territory, Realization, Impact, and Integration.
 
 For people skeptical of agents, emphasize that Nautilus does not erase human authority. It gives humans and agents a shared grammar while preserving their differences.
 
@@ -42,5 +42,6 @@ For people excited by agents, emphasize that acceleration without evidence and i
 
 - When does a Mission become ready to execute?
 - What kind of Evidence is proportional to each kind of Delivery?
+- How should Impact be assessed without becoming a false promise of control?
 - How does Integration become visible without becoming bureaucratic?
 - How should Role and Authority enter without overloading the first surface?

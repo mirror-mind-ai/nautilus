@@ -20,6 +20,14 @@ Adaptador e implementação de referência dentro do Mirror Mind.
 
 Aplicação dedicada para a prática da gramática Nautilus.
 
+## Geração de Valor
+
+[Propósito central de Nautilus](value-generation.md): tornar valor significativo disponível no Território Humano por meio de Realização disciplinada, Impacto observado e Integração.
+
+## Território Humano
+
+[Campo onde valor precisa se tornar disponível ou fazer diferença](human-territory.md) para que a Realização seja reconhecida como humana ou humano-agêntica.
+
 ## Mapa Agêntico
 
 [Representação compartilhada do contexto de trabalho](agentic-map.md) que permite a Participantes humanos e agênticos compreenderem onde estão, que materialidade existe e que Realização se busca no Território Humano.
@@ -38,7 +46,7 @@ Característica fundamental de um Participante, como humana ou agêntica. A vers
 
 ## Missão
 
-Intenção nomeada de realização. Na versão atual, é formulativa e mínima.
+Intenção nomeada de geração de valor por meio de realização. Na versão atual, é formulativa e mínima.
 
 ## Entrega
 
@@ -46,19 +54,15 @@ Intenção nomeada de realização. Na versão atual, é formulativa e mínima.
 
 ## Evidência
 
-[Vestígio proporcional](evidence.md) que sustenta o reconhecimento de uma Realização. No nível alto da jornada, cumpre papel análogo ao de testes automatizados, revisões e verificações de qualidade ou integridade em níveis mais baixos do trabalho.
+[Vestígio proporcional](evidence.md) que sustenta o reconhecimento de que valor foi disponibilizado por meio de Realização. No nível alto da Jornada, cumpre papel análogo ao de testes automatizados, revisões e verificações de qualidade ou integridade em níveis mais baixos do trabalho.
 
 ## Realização
 
-[Reconhecimento de que um movimento atravessou a Jornada](realization.md), tocou o Território Humano e tornou algo disponível ali, sustentado por Evidência.
+[Passagem disciplinada pela qual o valor ganha forma](realization.md), atravessa a Jornada, toca o Território Humano e se torna disponível ali, sustentado por Evidência.
 
 ## Impacto
 
 [Aquilo que acontece depois que uma Realização se torna disponível](impact.md) no Território Humano. Pode ser aferido por sinais qualitativos e quantitativos, mas não é controlado do mesmo modo que a Realização.
-
-## Território Humano
-
-[Campo onde uma Realização precisa fazer diferença](human-territory.md) para poder ser reconhecida como realização humana ou humano-agêntica.
 
 ## Integração
 

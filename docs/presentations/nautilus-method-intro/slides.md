@@ -4,11 +4,11 @@ description: Introductory presentation for Nautilus Agentic Method 0.1.0-experim
 lang: en
 ---
 
-# Nautilus Agentic Method
+# Nautilus
 
-## Grow without losing form
+## A spiral method for value generation with AI agentic support
 
-Work gains form, evidence sustains progress, and learning consolidates without losing coherence.
+Work gains form, evidence sustains progress, impact is observed, and learning consolidates without losing coherence.
 
 ---
 
@@ -26,7 +26,7 @@ What if your capacity to create and build could grow the same way?
 
 # The promise
 
-**Effort becomes recognizable realization.**
+**Effort becomes recognizable value.**
 
 What was diffuse gains form.
 
@@ -52,19 +52,19 @@ More plans.
 
 More movement.
 
-Little recognizable realization.
+Little recognizable value.
 
 ---
 
 # What Nautilus is
 
-Nautilus Agentic Method is a method for conducting human-agentic realization in a spiral.
+Nautilus is a spiral method for value generation with AI agentic support.
 
-Work gains form.
+Value is the center.
 
-Evidence sustains progress.
+Realization is the disciplined passage.
 
-Learning consolidates without losing coherence.
+Impact is the world's response.
 
 ---
 
@@ -72,7 +72,7 @@ Learning consolidates without losing coherence.
 
 The Nautilus method helps to:
 
-- transform effort into recognizable and cumulative realization;
+- transform effort into recognizable and cumulative value generation;
 - name the movement underway;
 - recognize progress through evidence;
 - preserve learning;
@@ -87,7 +87,7 @@ Effort without form becomes fog.
 
 The person knows they worked, but cannot clearly see what changed.
 
-When there is recognizable realization, they can say:
+When value becomes recognizable, they can say:
 
 **this now exists in the world.**
 
@@ -101,19 +101,19 @@ The Journey does not merely conclude a Delivery.
 
 It incorporates language, criteria, memory, and power to realize the next movement.
 
-**Each well-integrated Realization increases the capacity to realize the next one.**
+**Each well-integrated Realization increases the capacity to generate value in the next one.**
 
 ---
 
 # Human Territory
 
-Human Territory is the field where a realization must make a difference.
+Human Territory is the field where value must become available or make a difference.
 
 It is where humans live, decide, respond, learn, and continue.
 
 Nautilus does not ask only whether something was produced.
 
-It asks whether something changed where the work actually matters.
+It asks whether value appeared where the work actually matters.
 
 ---
 
@@ -310,7 +310,7 @@ It is not an abstract ontology without practice.
 
 It is not an application disguised as a method.
 
-Nautilus is a way to conduct human-agentic realization with cumulative coherence.
+Nautilus is a way to conduct value generation with AI agentic support and cumulative coherence.
 
 ---
 
@@ -325,7 +325,7 @@ Two initial cases:
 
 The guiding question remains:
 
-**does the language transform effort into recognizable realization?**
+**does the language transform effort into recognizable value?**
 
 ---
 

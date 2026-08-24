@@ -1,6 +1,6 @@
 # Impacto
 
-Impacto é aquilo que acontece depois que uma [Realização](realization.md) se torna disponível no [Território Humano](human-territory.md).
+Impacto é aquilo que acontece depois que o [valor](value-generation.md) realizado se torna disponível no [Território Humano](human-territory.md).
 
 Ele pode aparecer como leitura, uso, adoção, resposta, venda, citação, transformação, mudança de comportamento ou qualquer outro efeito qualitativo ou quantitativo produzido por aquilo que foi realizado.
 
@@ -8,11 +8,11 @@ Ele pode aparecer como leitura, uso, adoção, resposta, venda, citação, trans
 
 Nautilus precisa distinguir aquilo que a Jornada pode conduzir daquilo que ela só pode observar, influenciar e aprender.
 
-O método se centra em Realização porque Realização nomeia a parte do movimento que os Participantes conseguem conduzir com mais agência: dar forma ao trabalho, produzir ou disponibilizar uma Entrega, reunir Evidência proporcional, reconhecer que algo agora existe no Território Humano e integrar o que foi aprendido.
+O método se centra em Geração de Valor. Ele é disciplinado pela Realização porque Realização nomeia a parte do movimento que os Participantes conseguem conduzir com mais agência: dar forma ao trabalho, produzir ou disponibilizar uma Entrega, reunir Evidência proporcional, reconhecer que algo agora existe no Território Humano e integrar o que foi aprendido.
 
 Impacto vem depois. Ele depende de o mundo receber, usar, interpretar, ignorar, compartilhar, resistir ou transformar aquilo que se tornou disponível. Participantes podem desenhar para Impacto, convidá-lo, medi-lo e aprender com ele, mas não o controlam.
 
-## Realização não é Impacto
+## Geração de Valor, Realização e Impacto
 
 Publicar um livro é Realização quando o livro ganhou forma, atravessou a Jornada e se tornou disponível para consumo no Território Humano.
 
@@ -22,7 +22,7 @@ A quantidade de leitores é Impacto.
 
 O modo como leitores respondem, mudam, citam, recomendam, criticam ou ignoram o livro é Impacto.
 
-A mesma distinção vale para um artigo, um produto, uma aula, uma decisão, uma ferramenta ou um artefato público. Tornar real e disponível pertence à Realização. O que o mundo faz com isso pertence ao Impacto.
+A mesma distinção vale para um artigo, um produto, uma aula, uma decisão, uma ferramenta ou um artefato público. Geração de Valor é o propósito maior. Tornar valor real e disponível pertence à Realização. O que o mundo faz com isso pertence ao Impacto.
 
 ## Fronteira de controle
 
@@ -69,6 +69,8 @@ Para distinguir Realização de Impacto, pergunte:
 
 ## Síntese
 
-Realização é o campo primário do método: tornar algo real, disponível, evidenciado e integrado no Território Humano.
+Geração de Valor é o campo primário do método.
+
+Realização torna valor real, disponível, evidenciado e integrado no Território Humano.
 
 Impacto é o que vem depois: a resposta do mundo àquilo que foi realizado. Ele pode ser aferido e aprendido, mas não controlado do mesmo modo.

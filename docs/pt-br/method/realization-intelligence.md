@@ -2,7 +2,7 @@
 
 Inteligência de realização é a capacidade de uma [jornada](journey.md) aprender a realizar melhor a cada giro da espiral.
 
-Ela não é apenas inteligência cognitiva, planejamento, produtividade ou velocidade de execução. Ela aparece quando o trabalho realizado aumenta a capacidade do próximo trabalho: mais linguagem, mais critério, mais memória, mais [evidências](evidence.md) reaproveitáveis e mais clareza sobre como transformar esforço em realização reconhecível.
+Ela não é apenas inteligência cognitiva, planejamento, produtividade ou velocidade de execução. Ela aparece quando o trabalho realizado aumenta a capacidade do próximo trabalho: mais linguagem, mais critério, mais memória, mais [evidências](evidence.md) reaproveitáveis e mais clareza sobre como transformar esforço em geração de valor reconhecível.
 
 ## Por que o conceito existe
 

@@ -2,7 +2,7 @@
 
 Algumas intuições aristotélicas ajudam a iluminar o método: a passagem de potência a ato e a leitura pelas quatro causas.
 
-Essas influências ajudam a explicar por que o método se interessa por Realização, Território Humano, Evidência e Integração.
+Essas influências ajudam a explicar por que o método se interessa por Geração de Valor, Realização, Território Humano, Evidência, Impacto e Integração.
 
 ## Potência e ato
 
@@ -10,7 +10,7 @@ A distinção entre potência e ato ajuda a compreender o que Nautilus chama de 
 
 Potência é aquilo que pode vir a ser. Ato é aquilo que se tornou efetivo. Uma intenção, uma possibilidade, uma ideia, um rascunho, uma conversa ou uma energia de trabalho ainda não são Realização plena. Eles carregam potência.
 
-Quando o trabalho ganha forma, toca o [Território Humano](human-territory.md), é sustentado por [Evidências](evidence.md) e pode ser reconhecido pelos [Participantes](participant.md), algo passa da potência ao ato. Nautilus chama essa passagem de [Realização](realization.md).
+Quando o trabalho ganha forma, toca o [Território Humano](human-territory.md), é sustentado por [Evidências](evidence.md) e pode ser reconhecido pelos [Participantes](participant.md), algo passa da potência ao ato. Nautilus chama essa passagem de [Realização](realization.md). Sua orientação é a [Geração de Valor](value-generation.md).
 
 ## Realização como passagem
 
@@ -19,6 +19,14 @@ A frase “o esforço vira Realização reconhecível” pode ser lida por essa 
 O esforço sozinho ainda está no campo da potência. Ele pode produzir algo, mas ainda não garante que algo exista no mundo da Jornada. A Realização acontece quando o movimento se torna efetivo: uma Entrega se torna disponível, uma decisão se estabiliza, uma capacidade nova aparece ou uma mudança no Território Humano pode ser reconhecida. Leitura, uso, venda ou resposta posterior pertencem ao [Impacto](impact.md).
 
 Por isso Nautilus não confunde atividade com Realização. Atividade pode carregar potência. Realização é ato reconhecível.
+
+## Da metafísica à ética
+
+A primeira leitura é metafísica: o que era possível se torna atual.
+
+Com Geração de Valor e Impacto, o método também ganha orientação ética. Nautilus não pergunta apenas se algo se tornou real. Pergunta que valor se tornou real, para quem e que consequências ou respostas aparecem depois dessa disponibilidade.
+
+Essa camada ética não torna o Impacto controlável. Ela torna a Jornada responsável pelo valor que busca gerar e atenta ao que o mundo devolve depois da Realização.
 
 ## As quatro causas
 
@@ -29,7 +37,7 @@ Uma Realização pode ser sondada por quatro perguntas:
 - causa material: que contexto e materialidade existem no [Mapa Agêntico](agentic-map.md) para sustentar essa Realização?
 - causa formal: que forma, estrutura, linguagem ou organização torna essa Realização reconhecível?
 - causa eficiente: quem ou o que produziu o movimento que levou à Realização?
-- causa final: para que essa Realização existe, que finalidade ela serve no Território Humano?
+- causa final: para que valor essa Realização existe, que finalidade ela serve no Território Humano?
 
 Essas perguntas não precisam aparecer como ritual explícito em toda sessão. Elas funcionam como lentes de diagnóstico quando uma Realização está confusa e como fundamento do [Teste de Inteireza da Missão](integrity-test.md).
 
@@ -41,7 +49,7 @@ A causa formal aparece na linguagem, na Missão, na estrutura da Entrega e no mo
 
 A causa eficiente aparece nos Participantes humanos e agênticos, nas ações, decisões, ferramentas e processos que moveram a jornada.
 
-A causa final aparece no Território Humano: o para quê da Realização, sua consequência, sua utilidade, seu sentido e sua contribuição para o próximo giro.
+A causa final aparece no Território Humano: o para quê da Realização, o valor a que ela serve, sua consequência, sua utilidade, seu sentido e sua contribuição para o próximo giro.
 
 ## Relação com o Teste de Inteireza
 

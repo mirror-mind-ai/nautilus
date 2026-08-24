@@ -1,8 +1,8 @@
 # Realization
 
-Realization is the recognition that a movement crossed the Journey, touched the [Human Territory](human-territory.md), and made something available there, sustained by evidence.
+Realization is the disciplined means through which [Value Generation](value-generation.md) becomes available in the [Human Territory](human-territory.md).
 
-It is not merely a completed task, a feeling of progress, or the later impact of what was produced. A Realization happens when Participants can recognize what was made real and available in the human field of the Journey, why it mattered, what evidence sustains the progress, and what learning can be integrated for the next turn.
+It is the recognition that a movement crossed the Journey, touched the Human Territory, and made something available there, sustained by evidence. It is not merely a completed task, a feeling of progress, or the later impact of what was produced. A Realization happens when Participants can recognize what was made real and available in the human field of the Journey, what value it carries, what evidence sustains the progress, and what learning can be integrated for the next turn.
 
 ## Why the concept exists
 
@@ -12,7 +12,7 @@ A conversation can be intense and change nothing. A task can be completed withou
 
 Simple examples show the boundary. A book written but never made available may contain a lot of work without producing the intended Realization. A published book can be a Realization when it has gained form and become available for consumption in the Human Territory; the existence or number of readers is [Impact](impact.md), not Realization. A meeting may end with minutes and action items, but without a real decision, assumed responsibility, or change in the next movement. A plan may be well formatted and still not increase the Journey's capacity.
 
-Realization names the passage in which work stops being merely effort, production, or record and starts making a recognizable difference in the Human Territory. This passage can be understood, philosophically, as an actualization of potency into act. See [Aristotelian influences](aristotelian-influences.md).
+Realization names the passage in which work stops being merely effort, production, or record and starts making value available in the Human Territory. This passage can be understood, philosophically, as an actualization of potency into act. Its orientation toward value also gives it an ethical dimension. See [Aristotelian influences](aristotelian-influences.md).
 
 ## Realization and Human Territory
 
@@ -40,7 +40,7 @@ The central questions are simple:
 
 Publishing a book can be Realization. Having readers is Impact. The number of readers, the quality of responses, citations, recommendations, market performance, or transformation in readers' lives are Impact.
 
-The method remains centered on Realization because Realization names the part Participants can conduct with more agency: giving form, making available, evidencing, and integrating. Impact can be designed for, invited, measured, and learned from, but not controlled in the same way.
+The method remains operationally disciplined by Realization because Realization names the part Participants can conduct with more agency: giving form, making available, evidencing, and integrating. Its broader center is Value Generation. Impact can be designed for, invited, measured, and learned from, but not controlled in the same way.
 
 ## Realization and Evidence
 

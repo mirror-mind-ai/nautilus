@@ -1,16 +1,16 @@
 # Delivery
 
-Delivery is what a Mission produces, transforms, or makes available in the Journey.
+Delivery is what a Mission produces, transforms, or makes available in the Journey as a candidate carrier of value.
 
-It may be an artifact, decision, change of state, publication, implementation, structured conversation, adjusted practice, or any recognizable result that gives form to work.
+It may be an artifact, decision, change of state, publication, implementation, structured conversation, adjusted practice, or any recognizable result that gives form to work and can support [Value Generation](value-generation.md).
 
 ## Why the concept exists
 
-Nautilus distinguishes effort, Delivery, and Realization.
+Nautilus distinguishes effort, Delivery, Realization, Value Generation, and Impact.
 
-Effort is the energy invested. Delivery is the produced form or made-available change. [Realization](realization.md) is the recognition that this form became available in the [Human Territory](human-territory.md), was sustained by [Evidence](evidence.md), and can be integrated into the Journey.
+Effort is the energy invested. Delivery is the produced form or made-available change. [Realization](realization.md) is the recognition that this form carried value into the [Human Territory](human-territory.md), was sustained by [Evidence](evidence.md), and can be integrated into the Journey.
 
-A Delivery may exist without Realization. A draft article saved locally is a Delivery, but not yet a public Realization. A published and accessible article can be Realization when its availability in the expected Human Territory is evidenced. Reading, use, resonance, citation, or market response belong to [Impact](impact.md).
+A Delivery may exist without Realization or Value Generation. A draft article saved locally is a Delivery, but not yet a public Realization. A published and accessible article can be Realization when its availability in the expected Human Territory is evidenced. Reading, use, resonance, citation, or market response belong to [Impact](impact.md).
 
 ## Possible Delivery types
 
@@ -48,6 +48,7 @@ This distinction protects the method from confusing production with progress. A 
 
 A Delivery is well named when Participants can answer:
 
+- what value this Delivery intends to carry;
 - what was produced, transformed, or made available;
 - which Mission this Delivery answers;
 - where this Delivery exists or can be observed;

@@ -1,6 +1,6 @@
 # Integration
 
-Integration is the gesture that preserves learning, decision, criteria, or capacity in the next turn of the Journey.
+Integration is the gesture that preserves learning, decision, criteria, Impact signals, or capacity in the next turn of the Journey.
 
 It prevents a [Realization](realization.md) from becoming an isolated episode. When Integration happens, realized work changes the starting point of the next session: the Journey continues with more language, more memory, more criteria, and more power to realize.
 
@@ -10,7 +10,7 @@ Without Integration, a Journey can produce Deliveries, recognize progress, and s
 
 Learning remains dispersed among conversations, files, impressions, and memories. The Realization happened, but it did not sufficiently increase the future capacity of the Journey.
 
-Integration exists to transform Realization into continuity.
+Integration exists to transform Realization and what was learned from Impact into future capacity for Value Generation.
 
 ## What can be integrated
 
@@ -21,6 +21,7 @@ Integration may preserve:
 - more precise language;
 - a quality criterion;
 - important Evidence;
+- useful Impact signals;
 - a change in practice;
 - a way of operating;
 - a new capacity;
@@ -45,12 +46,13 @@ Integration does not need to be heavy.
 
 Sometimes a recorded decision is enough. Sometimes a short synthesis. Sometimes a criterion update, a link, a memory, a checklist, a change in the next plan, or a preserved question.
 
-The size of Integration should be proportional to the value of the learning.
+The size of Integration should be proportional to the value of the learning and to the future value it helps generate.
 
 ## Practical criterion
 
 An Integration is good when Participants can answer:
 
+- what value was generated;
 - what was learned;
 - which decision, criterion, or capacity needs to be preserved;
 - where this will be available for the next session;

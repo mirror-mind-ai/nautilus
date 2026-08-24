@@ -1,6 +1,6 @@
 # Integração
 
-Integração é o gesto que preserva aprendizado, decisão, critério ou capacidade no próximo giro da [jornada](journey.md).
+Integração é o gesto que preserva aprendizado, decisão, critério, sinais de Impacto ou capacidade no próximo giro da [Jornada](journey.md).
 
 Ela impede que uma [Realização](realization.md) vire episódio isolado. Quando a Integração acontece, o trabalho realizado altera o ponto de partida da próxima sessão: a jornada continua com mais linguagem, mais memória, mais critério e mais potência para realizar.
 
@@ -10,7 +10,7 @@ Sem Integração, uma jornada pode produzir [Entregas](delivery.md), reconhecer 
 
 O aprendizado fica disperso em conversas, arquivos, impressões e lembranças. A Realização aconteceu, mas não aumentou suficientemente a capacidade futura da jornada.
 
-Integração existe para transformar Realização em continuidade.
+Integração existe para transformar Realização e o que foi aprendido com Impacto em capacidade futura de Geração de Valor.
 
 ## O que pode ser integrado
 
@@ -21,6 +21,7 @@ A Integração pode preservar:
 - uma linguagem mais precisa;
 - um critério de qualidade;
 - uma [Evidência](evidence.md) importante;
+- sinais úteis de Impacto;
 - uma mudança de prática;
 - uma forma de operar;
 - uma capacidade nova;
@@ -45,12 +46,13 @@ Integração não precisa ser pesada.
 
 Às vezes, basta uma decisão registrada. Às vezes, uma síntese curta. Às vezes, uma atualização de critério, um link, uma memória, uma checklist, uma mudança no próximo plano ou uma pergunta preservada.
 
-O tamanho da Integração deve ser proporcional ao valor do aprendizado.
+O tamanho da Integração deve ser proporcional ao valor do aprendizado e ao valor futuro que ela ajuda a gerar.
 
 ## Critério prático
 
 Uma Integração é boa quando os [Participantes](participant.md) conseguem responder:
 
+- que valor foi gerado;
 - o que foi aprendido;
 - que decisão, critério ou capacidade precisa ser preservada;
 - onde isso ficará disponível para a próxima sessão;

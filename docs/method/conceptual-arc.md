@@ -1,14 +1,15 @@
 # Conceptual Arc
 
-The Conceptual Arc presents the sequence of concepts that sustains the Realization Cycle of the Nautilus Agentic Method.
+The Conceptual Arc presents the sequence of concepts that sustains Value Generation in the Nautilus Agentic Method.
 
-It is not a state machine. It is a reading and understanding map: it shows how the method crosses the human field, organizes work, and recognizes when effort became Realization.
+It is not a state machine. It is a reading and understanding map: it shows how the method crosses the human field, organizes work, and conducts Realization as the disciplined passage through which value becomes available.
 
 ## Arc sequence
 
 ```text
-Human Territory
-  is represented by the Agentic Map
+Value Generation
+  happens in the Human Territory
+    represented by the Agentic Map
     and hosts Journeys
       crossed by Participants
         who formulate Missions
@@ -21,7 +22,7 @@ Human Territory
 
 ## Human Territory
 
-[Human Territory](human-territory.md) is the field where a Realization must make a difference in order to be recognized as human or human-agentic realization.
+[Human Territory](human-territory.md) is the field where value must become available or make a difference in order for Realization to be recognized as human or human-agentic.
 
 It comes before the Journey because it defines where the method must touch the lived world: decisions, relationships, responsibilities, consequences, learning, and the capacity to continue.
 
@@ -45,31 +46,31 @@ It may have human or agentic nature. The concept allows collaboration without pr
 
 ## Mission
 
-[Mission](mission.md) is a named intention of realization.
+[Mission](mission.md) is a named intention of value generation through realization.
 
 It gives form to the movement before execution. In the current version, the Mission remains formulative: it names direction without smuggling delivery, evidence, or closure too early.
 
 ## Delivery
 
-[Delivery](delivery.md) is what the Mission produces, transforms, or makes available.
+[Delivery](delivery.md) is what the Mission produces, transforms, or makes available as a candidate carrier of value.
 
 It answers: what gained form?
 
 ## Evidence
 
-[Evidence](evidence.md) is the proportional trace that sustains the recognition of Realization.
+[Evidence](evidence.md) is the proportional trace that sustains the recognition that value was made available through Realization.
 
 It answers: how do we know that something moved?
 
 ## Realization
 
-[Realization](realization.md) is the recognition that a movement crossed the Journey, touched the Human Territory, and made something available there, sustained by Evidence.
+[Realization](realization.md) is the disciplined passage through which value gains form, crosses the Journey, touches the Human Territory, and becomes available there, sustained by Evidence.
 
 It answers: what now exists in the world?
 
 ## Impact
 
-[Impact](impact.md) is what happens after a Realization becomes available in the Human Territory.
+[Impact](impact.md) is what happens after realized value becomes available in the Human Territory.
 
 It answers: what did the world do with what was realized?
 
@@ -83,4 +84,4 @@ It answers: how does this Realization change the next movement?
 
 ## Synthesis
 
-The Conceptual Arc shows how Nautilus transforms effort into recognizable and cumulative Realization. Work begins in the Human Territory, is represented by the Agentic Map, gains form in the Journey, is conducted by Participants, oriented by Missions, materialized in Deliveries, sustained by Evidence, recognized as Realization, observed for Impact, and preserved by Integration.
+The Conceptual Arc shows how Nautilus transforms effort into recognizable and cumulative Value Generation. Work is oriented by value, situated in the Human Territory, represented by the Agentic Map, given form in the Journey, conducted by Participants, oriented by Missions, materialized in Deliveries, sustained by Evidence, recognized as Realization, observed for Impact, and preserved by Integration.

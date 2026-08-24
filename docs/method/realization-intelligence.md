@@ -2,7 +2,7 @@
 
 Realization intelligence is the capacity of a Journey to learn how to realize better at each turn of the spiral.
 
-It is not merely cognitive intelligence, planning, productivity, or execution speed. It appears when realized work increases the capacity of the next work: more language, more criteria, more memory, more reusable evidence, and more clarity about how to transform effort into recognizable realization.
+It is not merely cognitive intelligence, planning, productivity, or execution speed. It appears when realized work increases the capacity of the next work: more language, more criteria, more memory, more reusable evidence, and more clarity about how to transform effort into recognizable value generation.
 
 ## Why the concept exists
 

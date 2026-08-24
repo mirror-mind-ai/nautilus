@@ -20,9 +20,13 @@ Adapter and reference implementation inside Mirror Mind.
 
 Dedicated application for practicing the Nautilus grammar.
 
+## Value Generation
+
+[Central purpose of Nautilus](value-generation.md): making meaningful value available in the Human Territory through disciplined Realization, observed Impact, and Integration.
+
 ## Human Territory
 
-[Field where a Realization must make a difference](human-territory.md) in order to be recognized as human or human-agentic realization.
+[Field where value must become available or make a difference](human-territory.md) in order for Realization to be recognized as human or human-agentic.
 
 ## Agentic Map
 
@@ -42,7 +46,7 @@ Fundamental characteristic of a Participant, such as human or agentic. The curre
 
 ## Mission
 
-Named intention of realization. In the current version, it is formulative and minimal.
+Named intention of value generation through realization. In the current version, it is formulative and minimal.
 
 ## Delivery
 
@@ -50,11 +54,11 @@ Named intention of realization. In the current version, it is formulative and mi
 
 ## Evidence
 
-[Proportional trace](evidence.md) that sustains the recognition of a Realization. At the high level of the Journey, it plays a role analogous to automated tests, reviews, and quality or integrity checks at lower work levels.
+[Proportional trace](evidence.md) that sustains recognition that value was made available through Realization. At the high level of the Journey, it plays a role analogous to automated tests, reviews, and quality or integrity checks at lower work levels.
 
 ## Realization
 
-[Recognition that a movement crossed the Journey](realization.md), touched the Human Territory, and made something available there, sustained by Evidence.
+[Disciplined passage through which value gains form](realization.md), crosses the Journey, touches the Human Territory, and becomes available there, sustained by Evidence.
 
 ## Impact
 

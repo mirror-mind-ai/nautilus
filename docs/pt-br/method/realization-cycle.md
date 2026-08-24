@@ -1,14 +1,15 @@
 # Ciclo de Realização
 
-O Ciclo de Realização descreve o arco que a gramática Nautilus pretende sustentar.
+O Ciclo de Realização descreve o arco pelo qual a gramática Nautilus conduz Geração de Valor.
 
 Na versão atual, apenas a formulação da [Missão](mission.md) está estabilizada. O ciclo completo aparece como mapa conceitual para orientar as próximas câmaras.
 
 ## Arco conceitual
 
 ```text
-Território Humano
-  abriga Jornadas
+Geração de Valor
+  acontece no Território Humano
+    que abriga Jornadas
     atravessadas por Participantes
       que formulam Missões
         que orientarão Entregas
@@ -20,11 +21,11 @@ Território Humano
                   que retorna ao Território Humano com mais capacidade de realizar
 ```
 
-Esse arco envolve [Território Humano](human-territory.md), [Jornada](journey.md), [Participantes](participant.md), [Missão](mission.md), [Entrega](delivery.md), [Evidência](evidence.md), [Realização](realization.md), [Impacto](impact.md) e [Integração](integration.md) como conceitos conectados.
+Esse arco envolve [Geração de Valor](value-generation.md), [Território Humano](human-territory.md), [Jornada](journey.md), [Participantes](participant.md), [Missão](mission.md), [Entrega](delivery.md), [Evidência](evidence.md), [Realização](realization.md), [Impacto](impact.md) e [Integração](integration.md) como conceitos conectados.
 
 ## Formulação
 
-Formulação é a fase em que uma intenção ganha forma mínima.
+Formulação é a fase em que uma intenção de valor ganha forma mínima.
 
 Ela responde o que está sendo nomeado, por que importa agora e se ainda permanece antes da execução.
 
@@ -38,7 +39,7 @@ Ela será a passagem da Missão formulada para trabalho orientado. Quando entrar
 
 ## Entrega
 
-[Entrega](delivery.md) será o resultado produzido ou a mudança efetuada pela Missão.
+[Entrega](delivery.md) será o resultado produzido ou a mudança efetuada pela Missão como portador candidato de valor.
 
 O método deverá distinguir tipos de Entrega, sem forçar tudo a virar arquivo ou tarefa concluída.
 
@@ -50,13 +51,13 @@ Ela deverá responder como a Entrega pode ser observada, verificada ou testemunh
 
 ## Realização
 
-[Realização](realization.md) será o reconhecimento de que a intenção tocou o [Território Humano](human-territory.md) e tornou algo disponível no mundo da [Jornada](journey.md).
+[Realização](realization.md) será o reconhecimento de que o valor tocou o [Território Humano](human-territory.md) e se tornou disponível no mundo da [Jornada](journey.md).
 
 Ela exigirá relação entre Missão, Entrega e Evidência.
 
 ## Impacto
 
-[Impacto](impact.md) será aquilo que acontece depois que a Realização se torna disponível no Território Humano.
+[Impacto](impact.md) será aquilo que acontece depois que o valor realizado se torna disponível no Território Humano.
 
 Ele poderá ser aferido qualitativa e quantitativamente, mas não será controlado do mesmo modo que a Realização.
 

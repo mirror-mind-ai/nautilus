@@ -4,11 +4,11 @@ description: Introductory presentation for Nautilus Agentic Method 0.1.0-experim
 lang: pt-BR
 ---
 
-# Nautilus Agentic Method
+# Nautilus
 
-## Crescer sem perder a forma
+## Um método em espiral para geração de valor com apoio de IA agêntica
 
-O trabalho ganha forma, as evidências sustentam o avanço e o aprendizado se consolida sem perder coerência.
+O trabalho ganha forma, as evidências sustentam o avanço, o impacto é observado e o aprendizado se consolida sem perder coerência.
 
 ---
 
@@ -26,7 +26,7 @@ E se a sua capacidade de criar e construir pudesse crescer do mesmo modo?
 
 # A promessa
 
-**O esforço vira realização reconhecível.**
+**O esforço vira valor reconhecível.**
 
 O que era difuso ganha forma.
 
@@ -52,19 +52,19 @@ Mais planos.
 
 Mais movimento.
 
-Pouca realização reconhecível.
+Pouco valor reconhecível.
 
 ---
 
 # O que é Nautilus
 
-Nautilus Agentic Method é um método para conduzir realização humano-agêntica em espiral.
+Nautilus é um método em espiral para geração de valor com apoio de IA agêntica.
 
-O trabalho ganha forma.
+Valor é o centro.
 
-As evidências sustentam o avanço.
+Realização é a passagem disciplinada.
 
-O aprendizado se consolida sem perder coerência.
+Impacto é a resposta do mundo.
 
 ---
 
@@ -72,7 +72,7 @@ O aprendizado se consolida sem perder coerência.
 
 O método Nautilus ajuda a:
 
-- transformar esforço em realização reconhecível e cumulativa;
+- transformar esforço em geração de valor reconhecível e cumulativa;
 - nomear o movimento em curso;
 - reconhecer avanço por evidências;
 - preservar aprendizado;
@@ -87,7 +87,7 @@ Esforço sem forma vira névoa.
 
 A pessoa sabe que trabalhou, mas não vê com nitidez o que mudou.
 
-Quando há realização reconhecível, ela consegue dizer:
+Quando o valor se torna reconhecível, ela consegue dizer:
 
 **isto agora existe no mundo.**
 
@@ -101,19 +101,19 @@ Cada câmara amplia o organismo sem destruir a forma anterior.
 
 No método, cada giro deve terminar com mais capacidade do que havia no início.
 
-**Cada realização bem integrada aumenta a capacidade de realizar a próxima.**
+**Cada Realização bem integrada aumenta a capacidade de gerar valor na próxima.**
 
 ---
 
 # Território Humano
 
-Território Humano é o campo onde uma realização precisa fazer diferença.
+Território Humano é o campo onde valor precisa se tornar disponível ou fazer diferença.
 
 É onde humanos vivem, decidem, respondem, aprendem e continuam.
 
 Nautilus não pergunta apenas se algo foi produzido.
 
-Pergunta se algo mudou onde o trabalho realmente importa.
+Pergunta se valor apareceu onde o trabalho realmente importa.
 
 ---
 
@@ -310,7 +310,7 @@ Não é uma ontologia abstrata sem prática.
 
 Não é um aplicativo disfarçado de método.
 
-Nautilus é uma forma de conduzir realização humano-agêntica com coerência cumulativa.
+Nautilus é uma forma de conduzir geração de valor com apoio de IA agêntica e coerência cumulativa.
 
 ---
 
@@ -325,7 +325,7 @@ Dois casos iniciais:
 
 A pergunta-guia permanece:
 
-**a linguagem transforma esforço em realização reconhecível?**
+**a linguagem transforma esforço em valor reconhecível?**
 
 ---
 

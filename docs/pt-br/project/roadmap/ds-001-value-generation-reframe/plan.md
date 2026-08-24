@@ -59,4 +59,4 @@ Navigator reviews the home page, method overview, Value Generation page, Realiza
 
 ## Checkpoint
 
-Implementation must not start until the Navigator approves this plan.
+Approved by the Navigator. Implementation may start.

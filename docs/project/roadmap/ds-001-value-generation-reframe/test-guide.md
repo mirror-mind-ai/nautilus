@@ -6,7 +6,7 @@
 
 ```bash
 .venv/bin/mkdocs build
-rg "method for conducting human-agentic Realization|method for conducting human-agentic realization|eight founding concepts" docs --glob "*.md" --glob "!site/**"
+rg "method for conducting human-agentic Realization|method for conducting human-agentic realization|eight founding concepts|nine founding concepts" docs --glob "*.md" --glob "!site/**"
 ```
 
 ## Navigator Validation
@@ -27,4 +27,9 @@ Fail condition: the docs still imply that Realization is the ultimate center or 
 
 ## Validation Evidence
 
-Pending.
+Automated validation passed.
+
+```text
+obsolete search: only matched the validation command in this test guide and its pt-br copy
+mkdocs build: Documentation built successfully
+```

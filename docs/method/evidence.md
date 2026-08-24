@@ -1,18 +1,18 @@
 # Evidence
 
-Evidence is the proportional trace that sustains the recognition of a [Realization](realization.md).
+Evidence is the proportional trace that sustains the recognition that [value](value-generation.md) was made available through a [Realization](realization.md).
 
 It allows [Participants](participant.md) to trust that something moved in the [Human Territory](human-territory.md), instead of depending only on the subjective feeling of progress.
 
 ## Why the concept exists
 
-Nautilus distinguishes effort, production, and Realization.
+Nautilus distinguishes effort, production, Value Generation, Realization, and Impact.
 
-For this distinction not to remain abstract, the Journey needs evidence. Evidence shows what changed, why progress can be recognized, and how this recognition can sustain the next movement.
+For this distinction not to remain abstract, the Journey needs evidence. Evidence shows what value became available, why progress can be recognized, and how this recognition can sustain the next movement.
 
 ## Evidence as high-level verification
 
-Evidence of Realization plays, at the highest level of work, a role analogous to automated tests, reviews, or quality and integrity checks at lower levels.
+Evidence of Realization plays, at the highest level of value generation, a role analogous to automated tests, reviews, or quality and integrity checks at lower levels.
 
 At the technical level, an automated test helps trust that a part of the system behaves as expected. A review helps perceive whether something preserves quality. An integrity check helps know whether a structure remains consistent.
 
@@ -48,7 +48,8 @@ If the Mission is to publish an article, for example, the agent may first help d
 
 Evidence is good when it helps Participants answer:
 
-- which Realization is being recognized;
+- which value was made available;
+- which Realization made it available;
 - what became available or different in the Human Territory;
 - what trace sustains that availability or difference;
 - whether the Evidence is proportional to the Realization;

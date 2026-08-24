@@ -17,7 +17,7 @@ A família não é uma coleção de projetos independentes. Ela existe para pres
 
 O Method dá linguagem, sentido e critério humano à prática.
 
-Ele explica o que uma [Jornada](journey.md), uma [Missão](mission.md), uma [Entrega](delivery.md), uma [Evidência](evidence.md), uma [Realização](realization.md), um [Impacto](impact.md) e uma [Integração](integration.md) significam para quem usa Nautilus.
+Ele explica o que [Geração de Valor](value-generation.md), uma [Jornada](journey.md), uma [Missão](mission.md), uma [Entrega](delivery.md), uma [Evidência](evidence.md), uma [Realização](realization.md), um [Impacto](impact.md) e uma [Integração](integration.md) significam para quem usa Nautilus.
 
 Sua função é impedir que a família se torne apenas técnica. Antes de declarar ou implementar uma forma, o método precisa torná-la compreensível e praticável.
 

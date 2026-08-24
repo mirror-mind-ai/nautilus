@@ -2,7 +2,7 @@
 
 # DS-001, Reframe Nautilus around Value Generation
 
-**Status:** 🟡 Planned
+**Status:** ✅ Done
 
 ---
 
@@ -14,10 +14,10 @@ Nautilus documentation presents Value Generation as the central purpose of the m
 
 | Code | Story | Type | Outcome | Status |
 |------|-------|------|---------|--------|--------|
-| TS-001 | Establish canonical Value Generation framing | Technical Story | Canonical EN/PT definitions and concept pages align around Value Generation, Realization, and Impact | 🟡 Planned |
-| TS-002 | Update method narrative and navigation | Technical Story | Index, overview, conceptual arc, grammar, and navigation expose Value Generation without losing the Nautilus spiral | 🟡 Planned |
-| TS-003 | Update presentation narrative | Technical Story | Intro deck and facilitator notes introduce Value Generation before Realization and Impact | 🟡 Planned |
-| TS-004 | Validate bilingual coherence | Technical Story | English and Portuguese pages remain synchronized and MkDocs builds successfully | 🟡 Planned |
+| TS-001 | Establish canonical Value Generation framing | Technical Story | Canonical EN/PT definitions and concept pages align around Value Generation, Realization, and Impact | ✅ Done |
+| TS-002 | Update method narrative and navigation | Technical Story | Index, overview, conceptual arc, grammar, and navigation expose Value Generation without losing the Nautilus spiral | ✅ Done |
+| TS-003 | Update presentation narrative | Technical Story | Intro deck and facilitator notes introduce Value Generation before Realization and Impact | ✅ Done |
+| TS-004 | Validate bilingual coherence | Technical Story | English and Portuguese pages remain synchronized and MkDocs builds successfully | ✅ Done |
 
 ## Done Condition
 

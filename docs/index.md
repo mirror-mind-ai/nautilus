@@ -1,12 +1,12 @@
-# Nautilus — A spiral method for conducting human realization with AI agentic support
+# Nautilus, a spiral method for value generation with AI agentic support
 
-Nautilus Agentic Method is a method for conducting human-agentic [Realization](method/realization.md) in a spiral: work gains form, [Evidence](method/evidence.md) sustains progress, and learning consolidates without losing coherence.
+Nautilus is a spiral method for [Value Generation](method/value-generation.md) with AI agentic support: work gains form through [Realization](method/realization.md), [Evidence](method/evidence.md) sustains progress, [Impact](method/impact.md) is observed, and learning consolidates without losing coherence.
 
 The name comes from the nautilus, an organism that grows in a spiral by forming new chambers without abandoning the structure that sustains it. Growth is not only accumulation of parts: it is organic expansion with continuity of form. In the method, this image orients [Journeys](method/journey.md) in which each recognized advance increases the capacity for the next one, without dissolving the coherence of the whole.
 
 ## How the method helps
 
-The goal is to transform effort into recognizable and cumulative [Realization](method/realization.md). The method helps move from dispersed accumulation of conversations, tasks, and artifacts into clearer work conduction: naming the movement underway, recognizing progress through [Evidence](method/evidence.md), distinguishing Realization from [Impact](method/impact.md), preserving learning, and continuing the [Journey](method/journey.md) with more coherence.
+The goal is to transform effort into recognizable and cumulative [Value Generation](method/value-generation.md). The method helps move from dispersed accumulation of conversations, tasks, and artifacts into clearer work conduction: naming the value being sought, conducting [Realization](method/realization.md), recognizing progress through [Evidence](method/evidence.md), distinguishing Realization from [Impact](method/impact.md), preserving learning, and continuing the [Journey](method/journey.md) with more coherence.
 
 This helps because effort without form becomes fog. Nautilus makes progress more reliable: the person can see what was realized, why it mattered, what [Evidence](method/evidence.md) sustains the movement, what was learned, and how it changes the next step.
 
@@ -18,8 +18,9 @@ Start with [Overview](method/index.md) to understand the method's intention.
 
 Then read the value core:
 
-- [Realization](method/realization.md), to understand the method's central concept;
-- [Human Territory](method/human-territory.md), to understand where a [Realization](method/realization.md) must make a difference;
+- [Value Generation](method/value-generation.md), to understand the method's central purpose;
+- [Realization](method/realization.md), to understand the disciplined means of generating value;
+- [Human Territory](method/human-territory.md), to understand where a [Realization](method/realization.md) must make value available;
 - [Evidence](method/evidence.md), to understand how progress becomes reliable;
 - [Impact](method/impact.md), to understand what comes after Realization and is not controlled in the same way;
 - [Reliable continuity](method/reliable-continuity.md), to understand how a [Realization](method/realization.md) sustains the next movement;
@@ -39,6 +40,6 @@ The [Canonical cases](cases/index.md) exist to press the language against real s
 - Version: `0.1.0-experimental`
 - Grammar status: experimental
 - Focus: stabilize the minimal human language before expanding the ontology
-- Current surface: [Human Territory](method/human-territory.md), [Agentic Map](method/agentic-map.md), [Journey](method/journey.md), [Participant](method/participant.md), [Mission](method/mission.md), [Delivery](method/delivery.md), [Evidence](method/evidence.md), [Realization](method/realization.md), [Impact](method/impact.md), and [Integration](method/integration.md)
+- Current surface: [Value Generation](method/value-generation.md), [Human Territory](method/human-territory.md), [Agentic Map](method/agentic-map.md), [Journey](method/journey.md), [Participant](method/participant.md), [Mission](method/mission.md), [Delivery](method/delivery.md), [Evidence](method/evidence.md), [Realization](method/realization.md), [Impact](method/impact.md), and [Integration](method/integration.md)
 
 This documentation records version `0.1.0-experimental` of the method. It does not intend to freeze the complete ontology. Its function is to make the current form readable for study, critique, and evolution.

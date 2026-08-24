@@ -1,6 +1,6 @@
 # Território Humano
 
-Território Humano é o campo onde uma Realização precisa fazer diferença para poder ser reconhecida como realização humana ou humano-agêntica.
+Território Humano é o campo onde valor precisa se tornar disponível ou fazer diferença para que a Realização seja reconhecida como humana ou humano-agêntica.
 
 Ele inclui o mundo vivido dos [Participantes](participant.md): necessidades, responsabilidades, decisões, relações, restrições, consequências, significado e capacidade de continuar. Nautilus usa esse conceito para impedir que trabalho agêntico seja confundido com mera produção de artefatos.
 

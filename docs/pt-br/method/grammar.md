@@ -1,12 +1,18 @@
 # Gramática
 
-A gramática atual de Nautilus é uma superfície mínima de realização.
+A gramática atual de Nautilus é uma superfície mínima de geração de valor.
 
-Ela organiza nove conceitos fundadores: [Território Humano](human-territory.md), [Jornada](journey.md), [Participante](participant.md), [Missão](mission.md), [Entrega](delivery.md), [Evidência](evidence.md), [Realização](realization.md), [Impacto](impact.md) e [Integração](integration.md).
+Ela organiza dez conceitos fundadores: [Geração de Valor](value-generation.md), [Território Humano](human-territory.md), [Jornada](journey.md), [Participante](participant.md), [Missão](mission.md), [Entrega](delivery.md), [Evidência](evidence.md), [Realização](realization.md), [Impacto](impact.md) e [Integração](integration.md).
+
+## Geração de Valor
+
+[Geração de Valor](value-generation.md) é o propósito central de Nautilus.
+
+Ela responde: que valor está sendo gerado, para quem e por meio de qual Realização?
 
 ## Território Humano
 
-[Território Humano](human-territory.md) é o campo onde uma Realização precisa fazer diferença para poder ser reconhecida como realização humana ou humano-agêntica.
+[Território Humano](human-territory.md) é o campo onde valor precisa se tornar disponível ou fazer diferença para que a Realização seja reconhecida como humana ou humano-agêntica.
 
 Ele vem antes da Jornada porque define onde o método precisa tocar o mundo vivido: decisões, relações, responsabilidades, consequências, aprendizado e capacidade de continuar.
 
@@ -32,7 +38,7 @@ A versão atual reconhece a existência de Participantes, mas ainda não define 
 
 ## Missão
 
-Uma Missão é uma intenção nomeada de realização.
+Uma Missão é uma intenção nomeada de geração de valor por meio de realização.
 
 Ela dá forma ao movimento antes da execução. Na fatia atual, a Missão é formulativa. Ela ainda não executa, atribui papéis, produz entrega, coleta evidência, marca realização ou integra aprendizado.
 
@@ -40,13 +46,13 @@ Uma Missão mínima possui `id`, `title`, `purpose` e `status`.
 
 ## Entrega
 
-Uma [Entrega](delivery.md) é aquilo que a Missão produz ou transforma.
+Uma [Entrega](delivery.md) é aquilo que a Missão produz, transforma ou disponibiliza como portador candidato de valor.
 
 Pode ser artefato, mudança, documento, decisão, implementação, preparação, conversa estruturante ou qualquer resultado reconhecível. A Entrega ainda não está formalizada na versão atual, mas já aparece como próximo conceito necessário da gramática.
 
 ## Evidência
 
-[Evidência](evidence.md) é o vestígio que sustenta o reconhecimento de uma Realização.
+[Evidência](evidence.md) é o vestígio que sustenta o reconhecimento de que valor foi disponibilizado por meio de uma Realização.
 
 Ela responde à pergunta: como sabemos que algo aconteceu?
 
@@ -75,6 +81,7 @@ Ela impede que a Realização se torne episódio isolado. Integração pode atua
 A relação fundadora pode ser lida assim:
 
 ```text
+Geração de Valor dá direção.
 Território Humano abriga Jornadas.
 Jornadas são atravessadas por Participantes.
 Participantes formulam Missões.

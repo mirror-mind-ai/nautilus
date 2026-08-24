@@ -1,14 +1,15 @@
 # Arco Conceitual
 
-O Arco Conceitual apresenta a sequência de conceitos que sustenta o Ciclo de Realização do Nautilus Agentic Method.
+O Arco Conceitual apresenta a sequência de conceitos que sustenta a Geração de Valor no Nautilus Agentic Method.
 
-Ele não é uma máquina de estados. É um mapa de leitura e compreensão: mostra como o método atravessa o campo humano, organiza o trabalho e reconhece quando o esforço virou Realização.
+Ele não é uma máquina de estados. É um mapa de leitura e compreensão: mostra como o método atravessa o campo humano, organiza o trabalho e conduz a Realização como passagem disciplinada pela qual o valor se torna disponível.
 
 ## Sequência do arco
 
 ```text
-Território Humano
-  é representado pelo Mapa Agêntico
+Geração de Valor
+  acontece no Território Humano
+    representado pelo Mapa Agêntico
     e abriga Jornadas
       atravessadas por Participantes
         que formulam Missões
@@ -21,7 +22,7 @@ Território Humano
 
 ## Território Humano
 
-[Território Humano](human-territory.md) é o campo onde uma Realização precisa fazer diferença para poder ser reconhecida como realização humana ou humano-agêntica.
+[Território Humano](human-territory.md) é o campo onde o valor precisa se tornar disponível ou fazer diferença para que a Realização seja reconhecida como humana ou humano-agêntica.
 
 Ele vem antes da Jornada porque define onde o método precisa tocar o mundo vivido: decisões, relações, responsabilidades, consequências, aprendizado e capacidade de continuar.
 
@@ -45,31 +46,31 @@ Pode ter natureza humana ou agêntica. O conceito permite colaboração sem fing
 
 ## Missão
 
-[Missão](mission.md) é uma intenção nomeada de realização.
+[Missão](mission.md) é uma intenção nomeada de geração de valor por meio de realização.
 
 Ela dá forma ao movimento antes da execução. Na versão atual, a Missão permanece formulativa: nomeia direção sem contrabandear entrega, evidência ou fechamento antes da hora.
 
 ## Entrega
 
-[Entrega](delivery.md) é aquilo que a Missão produz, transforma ou disponibiliza.
+[Entrega](delivery.md) é aquilo que a Missão produz, transforma ou disponibiliza como portador candidato de valor.
 
 Ela responde: o que ganhou forma?
 
 ## Evidência
 
-[Evidência](evidence.md) é o vestígio proporcional que sustenta o reconhecimento da Realização.
+[Evidência](evidence.md) é o vestígio proporcional que sustenta o reconhecimento de que valor foi disponibilizado por meio da Realização.
 
 Ela responde: como sabemos que algo se moveu?
 
 ## Realização
 
-[Realização](realization.md) é o reconhecimento de que um movimento atravessou a Jornada, tocou o Território Humano e tornou algo disponível ali, sustentado por Evidências.
+[Realização](realization.md) é a passagem disciplinada pela qual o valor ganha forma, atravessa a Jornada, toca o Território Humano e se torna disponível ali, sustentado por Evidências.
 
 Ela responde: o que agora existe no mundo?
 
 ## Impacto
 
-[Impacto](impact.md) é aquilo que acontece depois que uma Realização se torna disponível no Território Humano.
+[Impacto](impact.md) é aquilo que acontece depois que o valor realizado se torna disponível no Território Humano.
 
 Ele responde: o que o mundo fez com aquilo que foi realizado?
 
@@ -83,4 +84,4 @@ Ela responde: como esta Realização muda o próximo movimento?
 
 ## Síntese
 
-O Arco Conceitual mostra como Nautilus transforma esforço em Realização reconhecível e cumulativa. O trabalho nasce no Território Humano, é representado pelo Mapa Agêntico, ganha forma na Jornada, é conduzido por Participantes, orientado por Missões, materializado em Entregas, sustentado por Evidências, reconhecido como Realização, observado por Impacto e preservado por Integração.
+O Arco Conceitual mostra como Nautilus transforma esforço em Geração de Valor reconhecível e cumulativa. O trabalho é orientado por valor, situado no Território Humano, representado pelo Mapa Agêntico, ganha forma na Jornada, é conduzido por Participantes, orientado por Missões, materializado em Entregas, sustentado por Evidências, reconhecido como Realização, observado por Impacto e preservado por Integração.

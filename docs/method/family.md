@@ -17,7 +17,7 @@ The family is not a collection of independent projects. It exists to preserve co
 
 The Method gives language, meaning, and human criteria to practice.
 
-It explains what a Journey, a Mission, a Delivery, Evidence, a [Realization](realization.md), [Impact](impact.md), and an Integration mean for whoever uses Nautilus.
+It explains what [Value Generation](value-generation.md), a Journey, a Mission, a Delivery, Evidence, a [Realization](realization.md), [Impact](impact.md), and an Integration mean for whoever uses Nautilus.
 
 Its function is to prevent the family from becoming merely technical. Before declaring or implementing a form, the method needs to make it understandable and practicable.
 

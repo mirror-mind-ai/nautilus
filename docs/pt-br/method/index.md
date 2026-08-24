@@ -1,16 +1,16 @@
 # Visão geral
 
-Nautilus Agentic Method é um método para conduzir [realização](realization.md) humano-agêntica em espiral: o trabalho ganha forma, as evidências sustentam o avanço e o aprendizado se consolida sem perder coerência.
+Nautilus é um método em espiral para [geração de valor](value-generation.md) com apoio de IA agêntica: o trabalho ganha forma por meio da [realização](realization.md), as evidências sustentam o avanço, o impacto é observado e o aprendizado se consolida sem perder coerência.
 
-Ele é a camada conceitual e pedagógica da [família Nautilus](family.md), voltada à compreensão e prática do método. Existe para dar linguagem a um tipo de trabalho que está se tornando cada vez mais comum: humanos e agentes atravessando uma [Jornada](journey.md) juntos, formulando intenções, produzindo entregas, reconhecendo realizações por evidências, distinguindo [Impacto](impact.md) daquilo que está sob controle da Jornada e preservando aprendizado para o próximo movimento.
+Ele é a camada conceitual e pedagógica da [família Nautilus](family.md), voltada à compreensão e prática do método. Existe para dar linguagem a um tipo de trabalho que está se tornando cada vez mais comum: humanos e agentes atravessando uma [Jornada](journey.md) juntos, nomeando o valor buscado, formulando intenções, produzindo entregas, reconhecendo realizações por evidências, distinguindo [Impacto](impact.md) daquilo que está sob controle da Jornada e preservando aprendizado para o próximo movimento.
 
-Agentes podem ampliar velocidade, volume e capacidade de exploração. Mas, sem um método e uma linguagem capazes de preservar coerência, essa ampliação tende a produzir dispersão: mais mensagens, mais artefatos, mais tarefas, mais registros, sem necessariamente produzir realização reconhecível, nem dar suporte ao aumento da [inteligência de realização](realization-intelligence.md) nas próximas sessões de trabalho. Nautilus nasce para organizar a passagem entre intenção e realização sem reduzir o trabalho vivo a uma fila de tarefas.
+Agentes podem ampliar velocidade, volume e capacidade de exploração. Mas, sem um método e uma linguagem capazes de preservar coerência, essa ampliação tende a produzir dispersão: mais mensagens, mais artefatos, mais tarefas, mais registros, sem necessariamente produzir valor reconhecível, nem dar suporte ao aumento da [inteligência de realização](realization-intelligence.md) nas próximas sessões de trabalho. Nautilus nasce para organizar a passagem entre intenção de valor e realização sem reduzir o trabalho vivo a uma fila de tarefas.
 
 ## Benefícios
 
 Os benefícios do método Nautilus são:
 
-- transformar esforço em [realização](realization.md) reconhecível e cumulativa;
+- transformar esforço em [geração de valor](value-generation.md) reconhecível e cumulativa;
 - sair do acúmulo disperso de conversas, tarefas e artefatos para uma forma mais clara de trabalho;
 - nomear o movimento em curso;
 - reconhecer avanço por evidências;
@@ -24,12 +24,12 @@ Para o [Participante](participant.md) humano, Nautilus torna o avanço mais vis�
 
 Para o Participante agêntico, uma estrutura de [realização](realization.md) oferece direção. O agente passa a orientar a interação pelo propósito final da relação de trabalho agêntico: produzir realização no [Território Humano](human-territory.md), não apenas gerar respostas, artefatos ou tarefas.
 
-Quando essa realização é cumulativa, cada movimento alimenta o próximo giro na espiral. O aprendizado não se perde entre conversas, arquivos e tarefas; ele se consolida como linguagem, critério, memória ou forma de operar. A jornada não recomeça do zero a cada ciclo. Ela amadurece.
+Quando essa geração de valor é cumulativa, cada movimento alimenta o próximo giro na espiral. O aprendizado não se perde entre conversas, arquivos e tarefas; ele se consolida como linguagem, critério, memória ou forma de operar. A jornada não recomeça do zero a cada ciclo. Ela amadurece.
 
 Crescer sem perder a forma significa que cada giro da espiral termina com mais capacidade do que havia no início. A jornada não apenas conclui uma Entrega; ela incorpora uma nova possibilidade de ação. O próximo movimento começa com mais linguagem, mais critério, mais memória e mais potência para realizar. Esse é o ganho cumulativo: cada [Realização](realization.md) bem integrada aumenta a capacidade de realizar a próxima.
 
 !!! success "O Grande Benefício"
-    O método transforma trabalho em realização continuada, onde cada entrega reconhecida se torna base, linguagem e capacidade para a próxima.
+    O método transforma trabalho em geração de valor continuada, onde cada Realização reconhecida se torna base, linguagem e capacidade para a próxima.
 
 ## A metáfora operacional
 
@@ -41,7 +41,7 @@ No método, cada nova capacidade deve funcionar assim. Uma nova prática, concei
 
 ## O que o método protege
 
-Nautilus protege a relação entre intenção, trabalho, evidência, reconhecimento e aprendizado.
+Nautilus protege a relação entre valor, intenção, trabalho, evidência, reconhecimento, impacto e aprendizado.
 
 Uma intenção sem forma vira desejo solto. Uma entrega sem evidência vira atividade difícil de reconhecer. Uma realização sem integração vira episódio isolado. Uma integração sem nova capacidade vira registro morto.
 
@@ -51,14 +51,15 @@ O método procura manter esses elementos em relação.
 
 Depois desta visão geral, leia o núcleo de valor:
 
-- [Realização](realization.md), para entender o conceito central do método;
-- [Território Humano](human-territory.md), para entender onde uma Realização precisa fazer diferença;
+- [Geração de Valor](value-generation.md), para entender o propósito central do método;
+- [Realização](realization.md), para entender o meio disciplinado de gerar valor;
+- [Território Humano](human-territory.md), para entender onde uma Realização precisa tornar valor disponível;
 - [Evidência](evidence.md), para entender como o avanço se torna confiável;
 - [Impacto](impact.md), para entender o que vem depois da Realização e não é controlado do mesmo modo;
 - [Continuidade confiável](reliable-continuity.md), para entender como uma Realização sustenta o próximo movimento;
 - [Inteligência de realização](realization-intelligence.md), para entender como a jornada aprende a realizar melhor a cada giro.
 
-Em seguida, leia o [Arco Conceitual](conceptual-arc.md) e atravesse seus conceitos: [Território Humano](human-territory.md), [Mapa Agêntico](agentic-map.md), [Jornada](journey.md), [Participante](participant.md), [Missão](mission.md), [Entrega](delivery.md), [Evidência](evidence.md), [Realização](realization.md), [Impacto](impact.md) e [Integração](integration.md).
+Em seguida, leia o [Arco Conceitual](conceptual-arc.md) e atravesse seus conceitos: [Geração de Valor](value-generation.md), [Território Humano](human-territory.md), [Mapa Agêntico](agentic-map.md), [Jornada](journey.md), [Participante](participant.md), [Missão](mission.md), [Entrega](delivery.md), [Evidência](evidence.md), [Realização](realization.md), [Impacto](impact.md) e [Integração](integration.md).
 
 Depois avance para o crescimento em espiral: [Dinâmica do ciclo](realization-cycle.md), [Continuidade confiável](reliable-continuity.md) e [Inteligência de realização](realization-intelligence.md).
 

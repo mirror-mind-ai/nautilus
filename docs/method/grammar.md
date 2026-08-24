@@ -1,12 +1,18 @@
 # Grammar
 
-The current Nautilus grammar is a minimal surface of realization.
+The current Nautilus grammar is a minimal surface of value generation.
 
-It organizes nine founding concepts: [Human Territory](human-territory.md), [Journey](journey.md), [Participant](participant.md), [Mission](mission.md), [Delivery](delivery.md), [Evidence](evidence.md), [Realization](realization.md), [Impact](impact.md), and [Integration](integration.md).
+It organizes ten founding concepts: [Value Generation](value-generation.md), [Human Territory](human-territory.md), [Journey](journey.md), [Participant](participant.md), [Mission](mission.md), [Delivery](delivery.md), [Evidence](evidence.md), [Realization](realization.md), [Impact](impact.md), and [Integration](integration.md).
+
+## Value Generation
+
+[Value Generation](value-generation.md) is the central purpose of Nautilus.
+
+It answers: what value is being generated, for whom, and through which Realization?
 
 ## Human Territory
 
-[Human Territory](human-territory.md) is the field where a Realization must make a difference in order to be recognized as human or human-agentic realization.
+[Human Territory](human-territory.md) is the field where value must become available or make a difference in order for Realization to be recognized as human or human-agentic.
 
 It comes before the Journey because it defines where the method must touch the lived world: decisions, relationships, responsibilities, consequences, learning, and the capacity to continue.
 
@@ -32,7 +38,7 @@ The current version recognizes Participants, but does not yet define Role and Au
 
 ## Mission
 
-A Mission is a named intention of realization.
+A Mission is a named intention of value generation through realization.
 
 It gives form to the movement before execution. In the current slice, Mission is formulative. It does not yet execute, assign roles, produce delivery, collect evidence, mark realization, or integrate learning.
 
@@ -40,13 +46,13 @@ A minimal Mission has `id`, `title`, `purpose`, and `status`.
 
 ## Delivery
 
-A [Delivery](delivery.md) is what the Mission produces or transforms.
+A [Delivery](delivery.md) is what the Mission produces, transforms, or makes available as a candidate carrier of value.
 
 It may be an artifact, change, document, decision, implementation, preparation, structuring conversation, or any recognizable result. Delivery is not yet fully formalized in the current version, but it already appears as a necessary next concept of the grammar.
 
 ## Evidence
 
-[Evidence](evidence.md) is the trace that sustains the recognition of a Realization.
+[Evidence](evidence.md) is the trace that sustains the recognition that value was made available through a Realization.
 
 It answers: how do we know that something happened?
 
@@ -75,6 +81,7 @@ It prevents Realization from becoming an isolated episode. Integration may updat
 The founding relation can be read as:
 
 ```text
+Value Generation gives direction.
 Human Territory hosts Journeys.
 Journeys are crossed by Participants.
 Participants formulate Missions.

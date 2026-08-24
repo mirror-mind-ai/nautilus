@@ -1,18 +1,18 @@
 # Evidência
 
-Evidência é o vestígio proporcional que sustenta o reconhecimento de uma [Realização](realization.md).
+Evidência é o vestígio proporcional que sustenta o reconhecimento de que [valor](value-generation.md) foi disponibilizado por meio de uma [Realização](realization.md).
 
 Ela permite que os [Participantes](participant.md) confiem que algo se moveu no [Território Humano](human-territory.md), em vez de depender apenas da sensação subjetiva de progresso.
 
 ## Por que o conceito existe
 
-Nautilus distingue esforço, produção e Realização.
+Nautilus distingue esforço, produção, Geração de Valor, Realização e Impacto.
 
-Para que essa distinção não fique abstrata, a [jornada](journey.md) precisa de evidências. Elas mostram o que mudou, por que o avanço pode ser reconhecido e como esse reconhecimento pode sustentar o próximo movimento.
+Para que essa distinção não fique abstrata, a [Jornada](journey.md) precisa de evidências. Elas mostram que valor se tornou disponível, por que o avanço pode ser reconhecido e como esse reconhecimento pode sustentar o próximo movimento.
 
 ## Evidência como verificação em nível alto
 
-Evidências de Realização cumprem, no nível mais alto do trabalho, um papel análogo ao que testes automatizados, revisões ou verificações de qualidade e integridade cumprem no nível mais baixo.
+Evidências de Realização cumprem, no nível mais alto da geração de valor, um papel análogo ao que testes automatizados, revisões ou verificações de qualidade e integridade cumprem no nível mais baixo.
 
 No nível técnico, um teste automatizado ajuda a confiar que uma parte do sistema se comporta como esperado. Uma revisão ajuda a perceber se algo preserva qualidade. Uma verificação de integridade ajuda a saber se uma estrutura continua consistente.
 
@@ -48,7 +48,8 @@ Se a [Missão](mission.md) é publicar um artigo, por exemplo, o agente pode pri
 
 Uma Evidência é boa quando ajuda os Participantes a responder:
 
-- que Realização está sendo reconhecida;
+- que valor foi disponibilizado;
+- que Realização o disponibilizou;
 - o que se tornou disponível ou diferente no Território Humano;
 - que vestígio sustenta essa disponibilidade ou diferença;
 - se a Evidência é proporcional à Realização;

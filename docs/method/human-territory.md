@@ -1,6 +1,6 @@
 # Human Territory
 
-Human Territory is the field where a Realization must make a difference in order to be recognized as human or human-agentic realization.
+Human Territory is the field where value must become available or make a difference in order for Realization to be recognized as human or human-agentic.
 
 It includes the lived world of Participants: needs, responsibilities, decisions, relationships, constraints, consequences, meaning, and the capacity to continue. Nautilus uses this concept to prevent agentic work from being confused with mere artifact production.
 

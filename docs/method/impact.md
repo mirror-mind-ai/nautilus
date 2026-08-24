@@ -1,6 +1,6 @@
 # Impact
 
-Impact is what happens after a [Realization](realization.md) becomes available in the [Human Territory](human-territory.md).
+Impact is what happens after realized [value](value-generation.md) becomes available in the [Human Territory](human-territory.md).
 
 It may appear as reading, use, adoption, response, sale, citation, transformation, behavioral change, or any other qualitative or quantitative effect produced by what was realized.
 
@@ -8,11 +8,11 @@ It may appear as reading, use, adoption, response, sale, citation, transformatio
 
 Nautilus needs to distinguish what the Journey can conduct from what it can only observe, influence, and learn from.
 
-The method is centered on Realization because Realization names the part of the movement that Participants can conduct with more agency: giving form to the work, producing or making available a Delivery, gathering proportional Evidence, recognizing that something now exists in the Human Territory, and integrating what was learned.
+The method is centered on Value Generation. It is disciplined by Realization because Realization names the part of the movement that Participants can conduct with more agency: giving form to the work, producing or making available a Delivery, gathering proportional Evidence, recognizing that something now exists in the Human Territory, and integrating what was learned.
 
 Impact comes next. It depends on the world receiving, using, interpreting, ignoring, sharing, resisting, or transforming what became available. Participants can design for Impact, invite it, measure it, and learn from it, but they do not control it.
 
-## Realization is not Impact
+## Value Generation, Realization, and Impact
 
 Publishing a book is Realization when the book has gained form, crossed the Journey, and became available for consumption in the Human Territory.
 
@@ -22,7 +22,7 @@ The number of readers is Impact.
 
 The way readers respond, change, cite, recommend, criticize, or ignore the book is Impact.
 
-The same distinction applies to an article, a product, a class, a decision, a tool, or a public artifact. Making it real and available belongs to Realization. What the world does with it belongs to Impact.
+The same distinction applies to an article, a product, a class, a decision, a tool, or a public artifact. Value Generation is the larger purpose. Making value real and available belongs to Realization. What the world does with it belongs to Impact.
 
 ## Boundary of control
 
@@ -69,6 +69,8 @@ To distinguish Realization from Impact, ask:
 
 ## Synthesis
 
-Realization is the method's primary field: making something real, available, evidenced, and integrated in the Human Territory.
+Value Generation is the method's primary field.
+
+Realization makes value real, available, evidenced, and integrated in the Human Territory.
 
 Impact is what comes after: the world's response to what was realized. It can be measured and learned from, but not controlled in the same way.
