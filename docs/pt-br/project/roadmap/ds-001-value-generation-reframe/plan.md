@@ -17,7 +17,6 @@ The update must remain bilingual. Every public documentation change in `docs/` n
 - Define the canonical short description in English and Portuguese.
 - Create `method/value-generation.md` and `pt-br/method/value-generation.md`.
 - Update home, overview, conceptual arc, grammar, glossary, realization, impact, evidence, delivery, integration, and relevant influence pages.
-- Add Lean Management as a bridge to the existing Software Zen audience without reducing Nautilus to Lean.
 - Extend the Aristotelian influence page from metaphysical actualization toward ethical orientation.
 - Update slides and facilitator notes after the method pages stabilize.
 - Run MkDocs validation.
@@ -28,7 +27,6 @@ The update must remain bilingual. Every public documentation change in `docs/` n
 - Do not change Protocol, Mirror Extension, or Harness implementation in this story.
 - Do not promise that Impact is controllable.
 - Do not replace Realization with Value Generation.
-- Do not turn Lean Management into the governing frame of Nautilus.
 
 ## Implementation Approach
 

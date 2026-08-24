@@ -23,7 +23,7 @@ Open the MkDocs viewer and inspect the updated reading path:
 
 Pass condition: the reader can understand that Nautilus is centered on Value Generation, conducts that value through Realization, and observes Impact without claiming control over it.
 
-Fail condition: the docs still imply that Realization is the ultimate center, that Impact is required to recognize Realization, or that Lean Management subsumes Nautilus.
+Fail condition: the docs still imply that Realization is the ultimate center or that Impact is required to recognize Realization.
 
 ## Validation Evidence
 

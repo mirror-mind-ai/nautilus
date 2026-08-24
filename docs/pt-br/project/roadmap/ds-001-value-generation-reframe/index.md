@@ -21,4 +21,4 @@ Nautilus documentation presents Value Generation as the central purpose of the m
 
 ## Done Condition
 
-The story is done when English and Portuguese documentation consistently state that Nautilus is a method for Value Generation with AI agentic support, Realization is the means of making value available in the Human Territory, Impact is the later observable response, Lean Management appears as a bridge rather than a reduction, and MkDocs builds successfully.
+The story is done when English and Portuguese documentation consistently state that Nautilus is a method for Value Generation with AI agentic support, Realization is the means of making value available in the Human Territory, Impact is the later observable response, and MkDocs builds successfully.
