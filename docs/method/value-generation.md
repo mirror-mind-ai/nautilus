@@ -2,7 +2,7 @@
 
 Value Generation is the central purpose of Nautilus.
 
-Nautilus is a spiral method for value generation with AI agentic support. It helps humans and agents conduct work so that effort becomes value made available in the [Human Territory](human-territory.md), sustained by [Evidence](evidence.md), observed through [Impact](impact.md), and integrated as future capacity.
+Nautilus is a method for continuous value generation through human-agentic collaboration. It helps humans and agents conduct work so that effort becomes value made available in the [Human Territory](human-territory.md), sustained by [Evidence](evidence.md), observed through [Impact](impact.md), and integrated as future capacity.
 
 ## Why Value Generation is central
 

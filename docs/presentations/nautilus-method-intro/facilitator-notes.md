@@ -22,7 +22,7 @@ Open with the promise: effort becomes recognizable value.
 
 Then name the failure mode of agentic work: acceleration without continuity, outputs without value, and traces without integration.
 
-Introduce Nautilus as a spiral method for value generation with AI agentic support.
+Introduce Nautilus as a method for continuous value generation through human-agentic collaboration.
 
 Move through Human Territory and Agentic Map before the operational concepts. This helps the audience understand that agents work through representations, while value must become available in the human field through Realization.
 

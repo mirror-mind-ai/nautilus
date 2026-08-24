@@ -6,7 +6,7 @@ lang: en
 
 # Nautilus
 
-## A spiral method for value generation with AI agentic support
+## A method for continuous value generation through human-agentic collaboration
 
 Work gains form, evidence sustains progress, impact is observed, and learning consolidates without losing coherence.
 
@@ -58,7 +58,7 @@ Little recognizable value.
 
 # What Nautilus is
 
-Nautilus is a spiral method for value generation with AI agentic support.
+Nautilus is a method for continuous value generation through human-agentic collaboration.
 
 Value is the center.
 
@@ -310,7 +310,7 @@ It is not an abstract ontology without practice.
 
 It is not an application disguised as a method.
 
-Nautilus is a way to conduct value generation with AI agentic support and cumulative coherence.
+Nautilus is a way to conduct continuous value generation through human-agentic collaboration and cumulative coherence.
 
 ---
 

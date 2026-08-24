@@ -6,7 +6,7 @@ lang: pt-BR
 
 # Nautilus
 
-## Um método em espiral para geração de valor com apoio de IA agêntica
+## Um método para geração contínua de valor por meio de colaboração humano-agêntica
 
 O trabalho ganha forma, as evidências sustentam o avanço, o impacto é observado e o aprendizado se consolida sem perder coerência.
 
@@ -58,7 +58,7 @@ Pouco valor reconhecível.
 
 # O que é Nautilus
 
-Nautilus é um método em espiral para geração de valor com apoio de IA agêntica.
+Nautilus é um método para geração contínua de valor por meio de colaboração humano-agêntica.
 
 Valor é o centro.
 
@@ -310,7 +310,7 @@ Não é uma ontologia abstrata sem prática.
 
 Não é um aplicativo disfarçado de método.
 
-Nautilus é uma forma de conduzir geração de valor com apoio de IA agêntica e coerência cumulativa.
+Nautilus é uma forma de conduzir geração contínua de valor por meio de colaboração humano-agêntica e coerência cumulativa.
 
 ---
 

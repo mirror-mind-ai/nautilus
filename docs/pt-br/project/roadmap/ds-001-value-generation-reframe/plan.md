@@ -45,9 +45,9 @@ Value Generation
 
 Candidate definition:
 
-English: Nautilus is a spiral method for value generation with AI agentic support.
+English: Nautilus is a method for continuous value generation through human-agentic collaboration.
 
-Portuguese: Nautilus é um método em espiral para geração de valor com apoio de IA agêntica.
+Portuguese: Nautilus é um método para geração contínua de valor por meio de colaboração humano-agêntica.
 
 ## Test Strategy
 

@@ -1,6 +1,6 @@
 # Overview
 
-Nautilus is a spiral method for [value generation](value-generation.md) with AI agentic support: work gains form through [realization](realization.md), evidence sustains progress, impact is observed, and learning consolidates without losing coherence.
+Nautilus is a method for continuous [value generation](value-generation.md) through human-agentic collaboration: work gains form through [realization](realization.md), evidence sustains progress, impact is observed, and learning consolidates without losing coherence.
 
 It is the conceptual and pedagogical layer of the [Nautilus Family](family.md), oriented to understanding and practicing the method. It gives language to a kind of work that is becoming increasingly common: humans and agents crossing a [Journey](journey.md) together, naming the value being sought, formulating intentions, producing deliveries, recognizing realizations through evidence, distinguishing [Impact](impact.md) from what is under the Journey's control, and preserving learning for the next movement.
 

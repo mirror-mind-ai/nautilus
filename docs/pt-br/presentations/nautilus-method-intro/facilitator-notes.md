@@ -24,7 +24,7 @@ Depois apresente a promessa: esforço vira valor reconhecível.
 
 Em seguida, nomeie a falha comum do trabalho com agentes: aceleração sem continuidade, outputs sem valor e rastros sem integração.
 
-Introduza Nautilus como método em espiral para geração de valor com apoio de IA agêntica.
+Introduza Nautilus como método para geração contínua de valor por meio de colaboração humano-agêntica.
 
 Passe por Território Humano e Mapa Agêntico antes dos conceitos operacionais. Isso ajuda a audiência a entender que agentes trabalham por representações, enquanto valor precisa se tornar disponível no campo humano por meio da Realização.
 

@@ -2,7 +2,7 @@
 
 Geração de Valor é o propósito central de Nautilus.
 
-Nautilus é um método em espiral para geração de valor com apoio de IA agêntica. Ele ajuda humanos e agentes a conduzir trabalho para que esforço se torne valor disponibilizado no [Território Humano](human-territory.md), sustentado por [Evidências](evidence.md), observado por [Impacto](impact.md) e integrado como capacidade futura.
+Nautilus é um método para geração contínua de valor por meio de colaboração humano-agêntica. Ele ajuda humanos e agentes a conduzir trabalho para que esforço se torne valor disponibilizado no [Território Humano](human-territory.md), sustentado por [Evidências](evidence.md), observado por [Impacto](impact.md) e integrado como capacidade futura.
 
 ## Por que Geração de Valor é central
 

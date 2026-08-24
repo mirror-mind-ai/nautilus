@@ -1,6 +1,6 @@
 # Visão geral
 
-Nautilus é um método em espiral para [geração de valor](value-generation.md) com apoio de IA agêntica: o trabalho ganha forma por meio da [realização](realization.md), as evidências sustentam o avanço, o impacto é observado e o aprendizado se consolida sem perder coerência.
+Nautilus é um método para [geração de valor](value-generation.md) contínua por meio de colaboração humano-agêntica: o trabalho ganha forma por meio da [realização](realization.md), as evidências sustentam o avanço, o impacto é observado e o aprendizado se consolida sem perder coerência.
 
 Ele é a camada conceitual e pedagógica da [família Nautilus](family.md), voltada à compreensão e prática do método. Existe para dar linguagem a um tipo de trabalho que está se tornando cada vez mais comum: humanos e agentes atravessando uma [Jornada](journey.md) juntos, nomeando o valor buscado, formulando intenções, produzindo entregas, reconhecendo realizações por evidências, distinguindo [Impacto](impact.md) daquilo que está sob controle da Jornada e preservando aprendizado para o próximo movimento.
 
