@@ -2,7 +2,7 @@
 
 # DS-002, Define Value Lenses and Lean Influence
 
-**Status:** 🔵 Pulled
+**Status:** ✅ Done
 
 ---
 
@@ -14,10 +14,10 @@ Nautilus documentation distinguishes value lenses rather than value stages: a pr
 
 | Code | Story | Type | Outcome | Status |
 |------|-------|------|---------|--------|
-| TS-001 | Define value lenses | Technical Story | Value Generation explains pragmatic and integrative lenses without making one a required stage before the other | 🟡 Planned |
-| TS-002 | Introduce Lean as influence | Technical Story | Lean is cited as a relevant influence for pragmatic value, without becoming the governing frame of Nautilus | 🟡 Planned |
-| TS-003 | Update related concept pages and slides | Technical Story | Impact, Evidence, and presentation materials reflect value lenses where necessary | 🟡 Planned |
-| TS-004 | Validate bilingual coherence | Technical Story | English and Portuguese pages remain synchronized and MkDocs builds successfully | 🟡 Planned |
+| TS-001 | Define value lenses | Technical Story | Value Generation explains pragmatic and integrative lenses without making one a required stage before the other | ✅ Done |
+| TS-002 | Introduce Lean as influence | Technical Story | Lean is cited as a relevant influence for pragmatic value, without becoming the governing frame of Nautilus | ✅ Done |
+| TS-003 | Update related concept pages and slides | Technical Story | Impact, Evidence, and presentation materials reflect value lenses where necessary | ✅ Done |
+| TS-004 | Validate bilingual coherence | Technical Story | English and Portuguese pages remain synchronized and MkDocs builds successfully | ✅ Done |
 
 ## Done Condition
 

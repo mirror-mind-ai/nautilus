@@ -28,11 +28,13 @@ An implementation may ask for tests, smoke checks, or behavioral observation. An
 
 Too much Evidence becomes bureaucracy. Too little weakens recognition.
 
-## Evidence of production, Realization, and Impact
+## Evidence of production, Realization, Impact, and Value
 
 Not every evidence of production is Evidence of Realization, and not every sign of [Impact](impact.md) should be required to recognize Realization.
 
 A saved file proves that something was produced. It does not prove, by itself, that the Journey realized what mattered. A published article or book can prove that the Delivery was made available in the Human Territory. Reading, resonance, citations, sales, recommendations, or transformation are signs of Impact after availability. A passing test proves technical behavior. It does not prove, by itself, that the delivery became available to the expected Human Territory.
+
+Value lenses affect how later evidence is interpreted. Contact and response signs may support the pragmatic lens when they show that someone received, chose, used, paid, or continued. Field-effect signs may support the integrative lens when they show increased capacity, clarity, trust, relationship, coherence, or continuity in the Human Territory.
 
 Nautilus preserves these differences.
 
@@ -54,6 +56,7 @@ Evidence is good when it helps Participants answer:
 - what trace sustains that availability or difference;
 - whether the Evidence is proportional to the Realization;
 - which later signals belong to Impact;
+- which value lens those signals support;
 - whether it helps the next session continue with more confidence.
 
 ## Synthesis

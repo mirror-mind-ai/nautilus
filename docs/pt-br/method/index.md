@@ -22,6 +22,8 @@ Isso importa porque esforço sem forma vira névoa. A pessoa sabe que trabalhou,
 
 Para o [Participante](participant.md) humano, Nautilus torna o avanço mais visível e confiável. Quando o esforço vira [realização](realization.md) reconhecível, a pessoa consegue dizer: isto agora existe no mundo. Há uma Entrega, uma Evidência, uma decisão, uma formulação, uma disponibilidade no Território Humano ou uma mudança de estado. O trabalho deixa de depender apenas da sensação subjetiva de que muita coisa aconteceu, e não confunde Realização com [Impacto](impact.md) posterior.
 
+Nautilus também distingue lentes de valor. A lente pragmática, influenciada pelo Lean Management, pergunta se o valor é percebido por quem recebe, usa, paga, escolhe ou continua. A lente integrativa pergunta se o Território Humano se torna mais integrado, capaz, claro, confiável e apto a continuar.
+
 Para o Participante agêntico, uma estrutura de [realização](realization.md) oferece direção. O agente passa a orientar a interação pelo propósito final da relação de trabalho agêntico: produzir realização no [Território Humano](human-territory.md), não apenas gerar respostas, artefatos ou tarefas.
 
 Quando essa geração de valor é cumulativa, cada movimento alimenta o próximo giro na espiral. O aprendizado não se perde entre conversas, arquivos e tarefas; ele se consolida como linguagem, critério, memória ou forma de operar. A jornada não recomeça do zero a cada ciclo. Ela amadurece.

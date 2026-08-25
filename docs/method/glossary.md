@@ -24,6 +24,14 @@ Dedicated application for practicing the Nautilus grammar.
 
 [Central purpose of Nautilus](value-generation.md): making meaningful value available in the Human Territory through disciplined Realization, observed Impact, and Integration.
 
+## Pragmatic value lens
+
+Lens influenced by Lean Management. It observes whether value is perceived by those who receive, use, pay, choose, or continue.
+
+## Integrative value lens
+
+Lens that observes whether a contribution increases integration in the Human Territory: more capacity, clarity, trust, relationship, coherence, or continuity.
+
 ## Human Territory
 
 [Field where value must become available or make a difference](human-territory.md) in order for Realization to be recognized as human or human-agentic.

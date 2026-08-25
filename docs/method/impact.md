@@ -2,7 +2,7 @@
 
 Impact is what happens after realized [value](value-generation.md) becomes available in the [Human Territory](human-territory.md).
 
-It may appear as reading, use, adoption, response, sale, citation, transformation, behavioral change, or any other qualitative or quantitative effect produced by what was realized.
+It may appear as contact, response, adoption, sale, citation, transformation, behavioral change, or any other qualitative or quantitative effect produced by what was realized.
 
 ## Why the concept exists
 
@@ -38,21 +38,25 @@ A Journey cannot control Impact in the same way. It cannot guarantee readership,
 
 This boundary protects the method from confusing responsibility with omnipotence. Nautilus asks Participants to realize what is theirs to realize, then observe Impact without pretending it was fully under their control.
 
-## Measuring Impact
+## Assessing Impact
 
-Impact can be assessed through quantitative and qualitative means.
+Impact can be assessed through quantitative and qualitative means, but not every impact proves value in the same way.
 
-Quantitative signs may include counts, views, sales, conversions, downloads, citations, completion rates, response rates, retention, or frequency of use.
+Contact impact shows that the Realization reached the world: counts, views, sales, downloads, opens, accesses, receipts, or initial use.
 
-Qualitative signs may include testimonials, conversations, decisions influenced, changes in practice, interpretation, resonance, criticism, stories of use, or observed transformation.
+Response impact shows that something came back from the world: comments, replies, recommendations, criticism, shares, citations, returns, testimonials, or continued use.
 
-Both kinds of signs can become [Evidence](evidence.md) for later learning, but they should not be confused with the Evidence that sustains the original Realization.
+Field-effect impact shows that something changed in the Human Territory: decisions influenced, practices changed, relationships shifted, understanding clarified, capacity increased, continuity strengthened, or transformation observed.
+
+Contact and response can indicate pragmatic value, especially when someone chooses, uses, pays, or continues. Field-effect signs help assess integrative value, because they show whether the territory became more capable, clear, trustworthy, coherent, or able to continue.
+
+All these signs can become [Evidence](evidence.md) for later learning, but they should not be confused with the Evidence that sustains the original Realization.
 
 ## Relationship with Integration
 
 Impact should feed [Integration](integration.md) when it teaches the Journey something useful.
 
-A book with few readers may still be a valid Realization, but its limited Impact can teach something about distribution, audience, language, timing, or positioning. A public artifact with surprising use may reveal a stronger field of demand than expected.
+A book with few readers may still be a valid Realization, but its limited contact impact can teach something about distribution, audience, language, timing, or positioning. A public artifact with surprising use may reveal strong pragmatic value. A response that changes decisions, relationships, practices, or continuity may reveal integrative value.
 
 Impact does not retroactively erase Realization. It informs the next spiral turn.
 
@@ -63,6 +67,9 @@ To distinguish Realization from Impact, ask:
 - what was made real and available in the Human Territory?
 - what Evidence sustains that availability?
 - what happened after availability?
+- which signs are contact, response, or field-effect impact?
+- which signs indicate pragmatic value?
+- which signs indicate integrative value?
 - which effects were within the Journey's control?
 - which effects depended on reception by the world?
 - what can be learned from that reception?

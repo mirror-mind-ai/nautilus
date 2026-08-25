@@ -2,7 +2,7 @@
 
 Impacto é aquilo que acontece depois que o [valor](value-generation.md) realizado se torna disponível no [Território Humano](human-territory.md).
 
-Ele pode aparecer como leitura, uso, adoção, resposta, venda, citação, transformação, mudança de comportamento ou qualquer outro efeito qualitativo ou quantitativo produzido por aquilo que foi realizado.
+Ele pode aparecer como contato, resposta, adoção, venda, citação, transformação, mudança de comportamento ou qualquer outro efeito qualitativo ou quantitativo produzido por aquilo que foi realizado.
 
 ## Por que o conceito existe
 
@@ -40,19 +40,23 @@ Essa fronteira protege o método de confundir responsabilidade com onipotência.
 
 ## Aferir Impacto
 
-Impacto pode ser aferido por meios quantitativos e qualitativos.
+Impacto pode ser aferido por meios quantitativos e qualitativos, mas nem todo impacto prova valor do mesmo modo.
 
-Sinais quantitativos podem incluir contagens, visualizações, vendas, conversões, downloads, citações, taxas de conclusão, taxas de resposta, retenção ou frequência de uso.
+Impacto de contato mostra que a Realização chegou ao mundo: contagens, visualizações, vendas, downloads, aberturas, acessos, recebimentos ou uso inicial.
 
-Sinais qualitativos podem incluir depoimentos, conversas, decisões influenciadas, mudanças de prática, interpretação, ressonância, crítica, histórias de uso ou transformação observada.
+Impacto de resposta mostra que algo voltou do mundo: comentários, respostas, recomendações, críticas, compartilhamentos, citações, retornos, depoimentos ou uso continuado.
 
-Os dois tipos de sinal podem se tornar [Evidência](evidence.md) para aprendizado posterior, mas não devem ser confundidos com a Evidência que sustenta a Realização original.
+Impacto de efeito no campo mostra que algo mudou no Território Humano: decisões influenciadas, práticas alteradas, relações deslocadas, compreensão clarificada, capacidade aumentada, continuidade fortalecida ou transformação observada.
+
+Contato e resposta podem indicar valor pragmático, especialmente quando alguém escolhe, usa, paga ou continua. Sinais de efeito no campo ajudam a aferir valor integrativo, porque mostram se o território se tornou mais capaz, claro, confiável, coerente ou apto a continuar.
+
+Todos esses sinais podem se tornar [Evidência](evidence.md) para aprendizado posterior, mas não devem ser confundidos com a Evidência que sustenta a Realização original.
 
 ## Relação com Integração
 
 Impacto deve alimentar a [Integração](integration.md) quando ensina algo útil à Jornada.
 
-Um livro com poucos leitores ainda pode ser uma Realização válida, mas seu Impacto limitado pode ensinar algo sobre distribuição, público, linguagem, tempo ou posicionamento. Um artefato público com uso inesperado pode revelar um campo de demanda mais forte do que se imaginava.
+Um livro com poucos leitores ainda pode ser uma Realização válida, mas seu impacto de contato limitado pode ensinar algo sobre distribuição, público, linguagem, tempo ou posicionamento. Um artefato público com uso inesperado pode revelar valor pragmático forte. Uma resposta que muda decisões, relações, práticas ou continuidade pode revelar valor integrativo.
 
 Impacto não apaga retroativamente a Realização. Ele informa o próximo giro da espiral.
 
@@ -63,6 +67,9 @@ Para distinguir Realização de Impacto, pergunte:
 - o que foi tornado real e disponível no Território Humano?
 - que Evidência sustenta essa disponibilidade?
 - o que aconteceu depois da disponibilidade?
+- quais sinais são impacto de contato, resposta ou efeito no campo?
+- quais sinais indicam valor pragmático?
+- quais sinais indicam valor integrativo?
 - quais efeitos estavam sob controle da Jornada?
 - quais efeitos dependeram da recepção do mundo?
 - o que pode ser aprendido com essa recepção?

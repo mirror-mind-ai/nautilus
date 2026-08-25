@@ -24,4 +24,9 @@ Fail condition: Lean becomes the governing definition of Nautilus value or integ
 
 ## Validation Evidence
 
-Pending.
+Automated validation passed.
+
+```text
+mkdocs build: Documentation built successfully
+validation search: matches were expected statements saying lenses are not stages, plus unrelated words such as backstage and smoke checks. No result says that Lean fully defines Nautilus value or that customer payment is the final definition of value.
+```

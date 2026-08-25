@@ -68,6 +68,18 @@ Impact is the world's response.
 
 ---
 
+# Two value lenses
+
+Pragmatic value asks:
+
+**is this perceived as useful enough to receive, use, pay, choose, or continue?**
+
+Integrative value asks:
+
+**does this make the Human Territory more integrated, capable, clear, trustworthy, and able to continue?**
+
+---
+
 # Benefits
 
 The Nautilus method helps to:

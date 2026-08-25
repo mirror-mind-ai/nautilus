@@ -24,6 +24,14 @@ Aplicação dedicada para a prática da gramática Nautilus.
 
 [Propósito central de Nautilus](value-generation.md): tornar valor significativo disponível no Território Humano por meio de Realização disciplinada, Impacto observado e Integração.
 
+## Lente pragmática de valor
+
+Lente influenciada pelo Lean Management. Observa se o valor é percebido por quem recebe, usa, paga, escolhe ou continua.
+
+## Lente integrativa de valor
+
+Lente que observa se uma contribuição aumenta integração no Território Humano: mais capacidade, clareza, confiança, relação, coerência ou continuidade.
+
 ## Território Humano
 
 [Campo onde valor precisa se tornar disponível ou fazer diferença](human-territory.md) para que a Realização seja reconhecida como humana ou humano-agêntica.

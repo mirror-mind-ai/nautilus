@@ -7,6 +7,7 @@ Este deck apresenta Nautilus como método vivo, não como framework finalizado. 
 A audiência deve sair com três reconhecimentos:
 
 - Nautilus trata de geração de valor com coerência, não de gestão de tarefas.
+- Valor pode ser lido por lentes pragmática e integrativa, não por etapas sequenciais.
 - Realização é a passagem disciplinada pela qual valor se torna disponível no Território Humano.
 - Impacto é a resposta posterior do mundo, pode ser aferido e aprendido, mas não controlado do mesmo modo.
 
@@ -28,13 +29,13 @@ Introduza Nautilus como método para geração contínua de valor por meio de co
 
 Passe por Território Humano e Mapa Agêntico antes dos conceitos operacionais. Isso ajuda a audiência a entender que agentes trabalham por representações, enquanto valor precisa se tornar disponível no campo humano por meio da Realização.
 
-A sequência Valor, Realização, Impacto deve ficar limpa: Valor é o centro, Realização é a passagem sob condução, Impacto é a resposta do mundo.
+A sequência Valor, Realização, Impacto deve ficar limpa: Valor é o centro, Realização é a passagem sob condução, Impacto é a resposta do mundo. Ao apresentar valor, diferencie lentes em vez de etapas. A lente pragmática pergunta se o valor é percebido por quem recebe, usa, paga, escolhe ou continua. A lente integrativa pergunta se o Território Humano se torna mais integrado, capaz, claro, confiável e apto a continuar.
 
 ## Ênfases por audiência
 
 Para uma audiência técnica, enfatize Mapa Agêntico, Evidência e a analogia entre Evidência de Realização e testes ou verificações de qualidade.
 
-Para uma audiência de liderança ou aprendizagem, enfatize Geração de Valor, Jornada, Território Humano, Realização, Impacto e Integração.
+Para uma audiência de liderança ou aprendizagem, enfatize Geração de Valor, lentes de valor, Jornada, Território Humano, Realização, Impacto e Integração.
 
 Para pessoas céticas em relação a agentes, enfatize que Nautilus não apaga autoridade humana. Ele dá a humanos e agentes uma gramática compartilhada preservando suas diferenças.
 

@@ -61,4 +61,4 @@ Fail condition: the docs imply that integrative value must pass through pragmati
 
 ## Checkpoint
 
-Implementation must not start until the Navigator approves this plan.
+Approved by the Navigator. Implementation may start.

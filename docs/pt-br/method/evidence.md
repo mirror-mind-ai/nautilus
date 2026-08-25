@@ -28,11 +28,13 @@ Uma implementação pode pedir testes, smoke checks ou observação de comportam
 
 Evidência demais vira burocracia. Evidência de menos enfraquece o reconhecimento.
 
-## Evidência de produção, Realização e Impacto
+## Evidência de produção, Realização, Impacto e Valor
 
 Nem toda evidência de produção é Evidência de Realização, e nem todo sinal de [Impacto](impact.md) deve ser exigido para reconhecer uma Realização.
 
 Um arquivo salvo prova que algo foi produzido. Não prova, sozinho, que a Jornada realizou o que importava. Um artigo ou livro publicado pode provar que a Entrega foi disponibilizada no Território Humano. Leitura, ressonância, citações, vendas, recomendações ou transformação são sinais de Impacto depois da disponibilidade. Um teste passando prova um comportamento técnico. Não prova, sozinho, que a entrega se tornou disponível para o Território Humano esperado.
+
+As lentes de valor afetam o modo como evidências posteriores são interpretadas. Sinais de contato e resposta podem sustentar a lente pragmática quando mostram que alguém recebeu, escolheu, usou, pagou ou continuou. Sinais de efeito no campo podem sustentar a lente integrativa quando mostram aumento de capacidade, clareza, confiança, relação, coerência ou continuidade no Território Humano.
 
 Nautilus procura preservar essas diferenças.
 
@@ -54,6 +56,7 @@ Uma Evidência é boa quando ajuda os Participantes a responder:
 - que vestígio sustenta essa disponibilidade ou diferença;
 - se a Evidência é proporcional à Realização;
 - quais sinais posteriores pertencem ao Impacto;
+- que lente de valor esses sinais sustentam;
 - se ela ajuda a próxima sessão a continuar com mais confiança.
 
 ## Síntese

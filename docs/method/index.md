@@ -22,6 +22,8 @@ This matters because effort without form becomes fog. The person knows they work
 
 For the human [Participant](participant.md), Nautilus makes progress more visible and reliable. When effort becomes recognizable [realization](realization.md), the person can say: this now exists in the world. There is a Delivery, Evidence, a decision, a clearer formulation, an availability in the Human Territory, or a change of state. Work no longer depends only on the subjective feeling that many things happened, and it does not confuse Realization with later [Impact](impact.md).
 
+Nautilus also distinguishes value lenses. The pragmatic lens, influenced by Lean Management, asks whether value is perceived by those who receive, use, pay, choose, or continue. The integrative lens asks whether the Human Territory becomes more integrated, capable, clear, trustworthy, and able to continue.
+
 For the agentic Participant, a [realization](realization.md) structure offers direction. The agent begins to orient the interaction toward the final purpose of the agentic work relationship: producing realization in the [Human Territory](human-territory.md), not merely generating responses, artifacts, or tasks.
 
 When that value generation is cumulative, each movement feeds the next turn of the spiral. Learning is not lost among conversations, files, and tasks; it consolidates as language, criteria, memory, or operating form. The Journey does not restart from zero at each cycle. It matures.

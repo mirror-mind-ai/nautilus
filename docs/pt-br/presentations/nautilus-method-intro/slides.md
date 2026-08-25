@@ -68,6 +68,18 @@ Impacto é a resposta do mundo.
 
 ---
 
+# Duas lentes de valor
+
+Valor pragmático pergunta:
+
+**isto é percebido como útil o suficiente para receber, usar, pagar, escolher ou continuar?**
+
+Valor integrativo pergunta:
+
+**isto torna o Território Humano mais integrado, capaz, claro, confiável e apto a continuar?**
+
+---
+
 # Benefícios
 
 O método Nautilus ajuda a:

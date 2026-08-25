@@ -7,6 +7,7 @@ This deck introduces Nautilus Agentic Method as a living method, not as a finish
 Audience should leave with three recognitions:
 
 - Nautilus is about value generation with coherence, not task management.
+- Value can be read through pragmatic and integrative lenses, not sequential stages.
 - Realization is the disciplined passage through which value becomes available in the Human Territory.
 - Impact is the later response of the world, assessable and learnable, but not controlled in the same way.
 
@@ -26,13 +27,13 @@ Introduce Nautilus as a method for continuous value generation through human-age
 
 Move through Human Territory and Agentic Map before the operational concepts. This helps the audience understand that agents work through representations, while value must become available in the human field through Realization.
 
-The central vocabulary should be presented as an arc, not as a taxonomy. The method is experimental. Its discipline is to add one chamber at a time.
+The central vocabulary should be presented as an arc, not as a taxonomy. When presenting value, distinguish lenses rather than stages. The pragmatic lens asks whether value is perceived by those who receive, use, pay, choose, or continue. The integrative lens asks whether the Human Territory becomes more integrated, capable, clear, trustworthy, and able to continue. The method is experimental. Its discipline is to add one chamber at a time.
 
 ## Emphasis by audience
 
 For a technical audience, emphasize Agentic Map, Evidence, and the analogy between Evidence of Realization and tests or quality checks.
 
-For a leadership or learning audience, emphasize Value Generation, Journey, Human Territory, Realization, Impact, and Integration.
+For a leadership or learning audience, emphasize Value Generation, value lenses, Journey, Human Territory, Realization, Impact, and Integration.
 
 For people skeptical of agents, emphasize that Nautilus does not erase human authority. It gives humans and agents a shared grammar while preserving their differences.
 
