@@ -10,9 +10,7 @@ Value is the contribution that increases the integration of the Human Territory,
 
 This definition is intentionally stronger than benefit, preference, or local success. A result may benefit one person, group, or metric while damaging the wider field it touches. When an action increases local capacity by producing fragmentation, dependency, opacity, exploitation, or rupture in the broader Human Territory, it produces impact without value, or even destruction of value.
 
-## Value lenses, not stages
-
-Nautilus distinguishes value lenses, not value stages.
+## Value lenses
 
 The pragmatic lens observes whether value is perceived by those who receive, use, pay, choose, or continue. This lens is close to the Lean Management understanding of value: value is not defined by the producer alone, but by the receiver's perception of benefit in the right moment, under acceptable conditions.
 

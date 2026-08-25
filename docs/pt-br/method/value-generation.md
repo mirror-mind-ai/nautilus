@@ -10,9 +10,7 @@ Valor é a contribuição que aumenta a integração do Território Humano, ampl
 
 Essa definição é intencionalmente mais forte do que benefício, preferência ou sucesso local. Um resultado pode beneficiar uma pessoa, grupo ou métrica enquanto danifica o campo mais amplo que toca. Quando uma ação aumenta capacidade local produzindo fragmentação, dependência, opacidade, exploração ou ruptura no Território Humano mais amplo, ela produz impacto sem valor, ou até destruição de valor.
 
-## Lentes de valor, não etapas
-
-Nautilus distingue lentes de valor, não etapas de valor.
+## Lentes de valor
 
 A lente pragmática observa se o valor é percebido por quem recebe, usa, paga, escolhe ou continua. Essa lente se aproxima da compreensão de valor do Lean Management: valor não é definido apenas por quem produz, mas pela percepção de benefício de quem recebe, no momento certo e sob condições aceitáveis.
 
