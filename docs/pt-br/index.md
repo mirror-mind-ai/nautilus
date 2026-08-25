@@ -2,7 +2,7 @@
 
 Nautilus é um método para [Geração de Valor](method/value-generation.md) contínua por meio de colaboração humano-agêntica: o trabalho ganha forma por meio da [Realização](method/realization.md), as [Evidências](method/evidence.md) sustentam o avanço, o [Impacto](method/impact.md) é observado e o aprendizado se consolida sem perder coerência.
 
-O nome vem do náutilo, organismo que cresce em espiral formando novas câmaras sem abandonar a estrutura que o sustenta. O crescimento não é apenas acúmulo de partes: é expansão orgânica com continuidade de forma. Cada câmara preserva memória estrutural e permite habitar uma abertura mais ampla. No método, essa imagem orienta [Jornadas](method/journey.md) em que cada avanço reconhecido aumenta a capacidade do próximo, sem dissolver a coerência do conjunto.
+O nome vem do náutilo, organismo que cresce em espiral formando novas câmaras sem abandonar a estrutura que o sustenta. O crescimento não é apenas acúmulo de partes: é expansão orgânica com continuidade de forma. No método, a espiral se torna um modelo para a evolução do trabalho: cada [Realização](method/realization.md) abre uma nova câmara, preserva o que foi aprendido e aumenta a capacidade da [Jornada](method/journey.md) para o próximo movimento sem dissolver a coerência do conjunto.
 
 ## Como o método ajuda
 

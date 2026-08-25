@@ -2,7 +2,7 @@
 
 Nautilus is a method for continuous [Value Generation](method/value-generation.md) through human-agentic collaboration: work gains form through [Realization](method/realization.md), [Evidence](method/evidence.md) sustains progress, [Impact](method/impact.md) is observed, and learning consolidates without losing coherence.
 
-The name comes from the nautilus, an organism that grows in a spiral by forming new chambers without abandoning the structure that sustains it. Growth is not only accumulation of parts: it is organic expansion with continuity of form. In the method, this image orients [Journeys](method/journey.md) in which each recognized advance increases the capacity for the next one, without dissolving the coherence of the whole.
+The name comes from the nautilus, an organism that grows in a spiral by forming new chambers without abandoning the structure that sustains it. Growth is not only accumulation of parts: it is organic expansion with continuity of form. In the method, the spiral becomes a model for how work should evolve: each [Realization](method/realization.md) opens a new chamber, preserves what was learned, and increases the [Journey](method/journey.md)'s capacity for the next movement without dissolving the coherence of the whole.
 
 ## How the method helps
 
