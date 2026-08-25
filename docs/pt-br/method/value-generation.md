@@ -44,11 +44,11 @@ As camadas iniciais importam, mas não provam automaticamente valor integrativo.
 
 ## Orientação ética
 
-Valor introduz uma orientação ética no método.
+Valor Integrativo introduz uma orientação ética no método.
 
 A pergunta deixa de ser apenas se uma potência virou ato, ou se o esforço virou resultado reconhecido. A pergunta passa a ser também: que tipo de valor está sendo gerado, em que território e a que custo?
 
-Isso não transforma Nautilus em doutrina moral. Dá ao método uma direção necessária. Uma espiral pode crescer com forma e ainda crescer na direção errada. Valor é a pergunta que impede a coerência de virar mera eficiência.
+Isso não transforma Nautilus em doutrina moral. Dá ao método uma direção necessária. Uma espiral pode crescer com forma e ainda crescer na direção errada. Valor Integrativo é a pergunta que impede a coerência de virar mera eficiência.
 
 ## Diferença em relação à produção
 

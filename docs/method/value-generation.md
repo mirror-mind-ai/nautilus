@@ -44,11 +44,11 @@ The early layers matter, but they do not automatically prove integrative value. 
 
 ## Ethical orientation
 
-Value introduces an ethical orientation into the method.
+Integrative Value introduces an ethical orientation into the method.
 
 The question is no longer only whether potential became actual, or whether effort became a recognized result. The question also becomes: what kind of value is being generated, in which territory, and at what cost?
 
-This does not turn Nautilus into a moral doctrine. It gives the method a necessary direction. A spiral can grow with form and still grow toward the wrong thing. Value is the question that prevents coherence from becoming mere efficiency.
+This does not turn Nautilus into a moral doctrine. It gives the method a necessary direction. A spiral can grow with form and still grow toward the wrong thing. Integrative Value is the question that prevents coherence from becoming mere efficiency.
 
 ## Difference from production
 
