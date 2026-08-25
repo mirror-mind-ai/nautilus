@@ -10,8 +10,6 @@ Value is the contribution that increases the integration of the Human Territory,
 
 This definition is intentionally stronger than benefit, preference, or local success. A result may benefit one person, group, or metric while damaging the wider field it touches. When an action increases local capacity by producing fragmentation, dependency, opacity, exploitation, or rupture in the broader Human Territory, it produces impact without value, or even destruction of value.
 
-Value is not the absence of conflict. Sometimes a necessary clarification disturbs a false harmony before it allows a more real integration. The criterion is not comfort. The criterion is whether the territory becomes more integrated, capable, clear, trustworthy, and able to continue.
-
 ## Value lenses, not stages
 
 Nautilus distinguishes value lenses, not value stages.

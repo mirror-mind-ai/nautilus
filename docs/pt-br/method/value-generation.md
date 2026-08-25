@@ -10,8 +10,6 @@ Valor é a contribuição que aumenta a integração do Território Humano, ampl
 
 Essa definição é intencionalmente mais forte do que benefício, preferência ou sucesso local. Um resultado pode beneficiar uma pessoa, grupo ou métrica enquanto danifica o campo mais amplo que toca. Quando uma ação aumenta capacidade local produzindo fragmentação, dependência, opacidade, exploração ou ruptura no Território Humano mais amplo, ela produz impacto sem valor, ou até destruição de valor.
 
-Valor não é ausência de conflito. Às vezes uma clarificação necessária perturba uma falsa harmonia antes de permitir uma integração mais real. O critério não é conforto. O critério é se o território se torna mais integrado, capaz, claro, confiável e apto a continuar.
-
 ## Lentes de valor, não etapas
 
 Nautilus distingue lentes de valor, não etapas de valor.
