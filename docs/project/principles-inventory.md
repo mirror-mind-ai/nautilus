@@ -17,7 +17,7 @@ This inventory tracks candidate Nautilus principles before they become published
 | --- | --- | --- |
 | Reliable Continuity | Strategy defined | Use `reliable-continuity.md` as the principle page. Canonical sentence: each turn of the Journey should preserve enough form for the next one to begin with more capacity, not reconstruction. |
 | Value as Direction | Strategy defined | Use `value-generation.md` as the principle page. Position it before Reliable Continuity in `principles.md`, because it gives direction while continuity preserves form over time. Canonical sentence: every Journey should orient its Realization by the value it seeks to make available in the Human Territory. |
-| Proportional Evidence | To evaluate | Candidate principle derived from Evidence. Needs boundary between enough verification and bureaucracy. |
+| Grounded Progress | Strategy defined | Use `evidence.md` as the principle page. Evidence becomes the mechanism, not the principle name. Position after Value as Direction, because value gives direction and Grounded Progress protects recognition from becoming subjective impression or narrative without trace. Canonical sentence: a Journey should only recognize progress when there is a trustworthy trace that value was made available, transformed, or learned in the Human Territory. |
 | Integration before Expansion | To evaluate | Candidate principle derived from Integration and spiral growth. Needs relation to Reliable Continuity. |
 | Human Territory Centrality | To evaluate | Candidate principle derived from Human Territory. Needs relation to value and impact. |
 | Human-Agentic Collaboration | To evaluate | Candidate principle derived from the method definition. Needs authority and responsibility boundaries. |
