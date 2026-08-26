@@ -16,7 +16,7 @@ Este inventário acompanha princípios candidatos de Nautilus antes que eles se 
 | Princípio | Estado | Notas |
 | --- | --- | --- |
 | Continuidade Confiável | Estratégia definida | Usar `reliable-continuity.md` como página do princípio. Frase canônica: cada giro da Jornada deve preservar forma suficiente para que o próximo comece com mais capacidade, não com reconstrução. |
-| Valor como Direção | Em avaliação | Nome do princípio aceito. Derivado da definição atual do método e da página de Geração de Valor. Precisa estratégia de documentação e formulação canônica. |
+| Valor como Direção | Estratégia definida | Usar `value-generation.md` como página do princípio. Posicioná-lo antes de Continuidade Confiável em `principles.md`, porque ele dá direção enquanto a continuidade preserva forma ao longo do tempo. Frase canônica: toda Jornada deve orientar sua Realização pelo valor que busca tornar disponível no Território Humano. |
 | Evidência Proporcional | A avaliar | Princípio candidato derivado de Evidência. Precisa delimitar verificação suficiente sem burocracia. |
 | Integração antes da Expansão | A avaliar | Princípio candidato derivado de Integração e crescimento em espiral. Precisa relação com Continuidade Confiável. |
 | Centralidade do Território Humano | A avaliar | Princípio candidato derivado de Território Humano. Precisa relação com valor e impacto. |
