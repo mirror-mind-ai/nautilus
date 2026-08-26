@@ -1,0 +1,146 @@
+profile_id: nautilus.journey-synthesis
+profile_version: "1.0"
+method_version: 0.1.0-experimental
+mirror_contract: mirror.journey-projections@1.0
+protocol_schema_version: "1"
+extension_namespace: nautilus-synthesis
+
+purpose: >-
+  Provide compact semantic guidance for explicit Pi interpretation of a
+  Journey's current Operational projection into Tactical and Strategic
+  published readings without duplicating the Nautilus Method corpus.
+
+shared:
+  operational_authority: >-
+    Treat the Ariad Operational snapshot as factual structure and source
+    context. Never rewrite roadmap, exploration, refinement, active work or
+    artifacts through a derived projection.
+  source_policy:
+    require_operational_snapshot: true
+    require_source_references: true
+    allowed_reference_kinds:
+      - snapshot
+      - artifact
+      - conversation
+      - runtime-event
+    forbidden_evidence:
+      - private-prompts
+      - private-responses
+      - transcript-bodies
+      - raw-reasoning
+      - secrets
+      - arbitrary-environment-values
+  ambiguity_policy: >-
+    Preserve uncertainty when evidence is incomplete, contradictory or too
+    weak. Prefer an honest empty or provisional reading to invented certainty.
+  proportionality_policy: >-
+    Include only the minimum evidence, deliveries, impacts and value readings
+    needed to sustain the interpretation. More material is not stronger truth.
+  publication_policy: >-
+    Pi produces a candidate. The Mirror extension validates and publishes it.
+    Pi must never write the canonical projection directly.
+  forbidden_patterns:
+    - scores
+    - rankings
+    - kpis
+    - charts
+    - confidence-as-certainty
+    - workflow-mutation
+    - task-board-semantics
+    - implicit-provider-invocation
+
+tactical:
+  question: What direction organizes the Journey's current operational movement?
+  mission:
+    meaning: >-
+      A Mission is a named intention of realization. It names a directed
+      movement and why it matters now without smuggling execution, role
+      assignment, completion claims or a full plan into formulation.
+    selection: >-
+      Choose one mission only when operational evidence reveals a coherent
+      directed intention. Keep the title specific enough to orient and the
+      purpose situated in the current Journey.
+  evidence:
+    meaning: >-
+      Evidence is a proportional trace that sustains recognition. In Tactical,
+      it supports why the mission reading and related deliveries are credible;
+      it must not confuse a produced file with realized value or later Impact.
+    selection: >-
+      Include only source-grounded signals related to the selected mission.
+      Distinguish production traces, realization evidence and later impact
+      signals in wording even though Tactical does not publish Realizations.
+  deliverables:
+    meaning: >-
+      A Delivery is a produced, transformed or made-available form that may
+      carry value. It is not automatically a Realization and must remain linked
+      to the mission and supporting evidence.
+    selection: >-
+      Include concrete forms already observable or strongly grounded in
+      Operational sources. Do not invent planned work or turn Tactical into a
+      backlog.
+  output_constraints:
+    one_primary_mission: true
+    evidence_must_support_mission: true
+    deliverables_must_reference_evidence: true
+    no_task_management: true
+    no_completion_inference_from_activity: true
+
+strategic:
+  question: What became real and available, what happened after, and what value can be recognized?
+  realization:
+    meaning: >-
+      A Realization recognizes that work gained form, touched the Human
+      Territory and made value available there, sustained by proportional
+      Evidence. Completion, production and subjective progress alone are not
+      Realization.
+    selection: >-
+      Name a Realization only when sources establish what became available or
+      different in the Human Territory. Preserve the boundary between Delivery,
+      Realization and Impact.
+  impact:
+    meaning: >-
+      Impact is what happens after realized value becomes available. It may be
+      contact, response or field-effect. It can be invited, observed and learned
+      from, but not claimed as controlled by the Journey.
+    selection: >-
+      Include only impacts causally related to the selected Realization and
+      explicitly grounded in post-availability signals.
+  pragmatic_value:
+    meaning: >-
+      Read whether recipients perceived enough benefit to receive, use, pay,
+      choose or continue. Absence of reception evidence must remain absence,
+      not a negative score.
+  integrative_value:
+    meaning: >-
+      Read whether the contribution increased the Human Territory's capacity
+      for action, learning, relationship, trust, coherence or continuity.
+      Local benefit that fragments the wider field is not integrative value.
+  integration:
+    meaning: >-
+      Identify learning, decisions, criteria or capacity that changed the next
+      starting point. Integration is proportional preservation, not a new
+      bureaucracy.
+  output_constraints:
+    realization_is_primary: true
+    impacts_must_reference_realization: true
+    value_lenses_have_equal_weight: true
+    value_lenses_are_not_scores: true
+    strategic_is_not_reporting: true
+
+explicit_intents:
+  operational: atualize a projeção operacional desta jornada
+  tactical: atualize a síntese tática desta jornada
+  strategic: atualize a síntese estratégica desta jornada
+  all: atualize as sínteses desta jornada
+
+execution_order:
+  all:
+    - rebuild-operational-deterministically
+    - synthesize-tactical-from-current-operational
+    - synthesize-strategic-from-current-operational-and-current-tactical
+    - publish-through-validated-extension-boundary
+
+staleness:
+  tactical: Compare its Operational source snapshot with the current Operational snapshot.
+  strategic: Compare its Operational and optional Tactical source snapshots with current snapshots.
+  correction: Expose staleness; never repair it through implicit model invocation.
