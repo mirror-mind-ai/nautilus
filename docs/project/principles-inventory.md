@@ -16,7 +16,7 @@ This inventory tracks candidate Nautilus principles before they become published
 | Principle | State | Notes |
 | --- | --- | --- |
 | Reliable Continuity | Strategy defined | Use `reliable-continuity.md` as the principle page. Canonical sentence: each turn of the Journey should preserve enough form for the next one to begin with more capacity, not reconstruction. |
-| Continuous Value Generation | To evaluate | Candidate principle derived from the current method definition. Needs relation to Value Generation page. |
+| Value as Direction | In evaluation | Accepted principle name. Derived from the current method definition and the Value Generation page. Needs documentation strategy and canonical formulation. |
 | Proportional Evidence | To evaluate | Candidate principle derived from Evidence. Needs boundary between enough verification and bureaucracy. |
 | Integration before Expansion | To evaluate | Candidate principle derived from Integration and spiral growth. Needs relation to Reliable Continuity. |
 | Human Territory Centrality | To evaluate | Candidate principle derived from Human Territory. Needs relation to value and impact. |
