@@ -10,7 +10,7 @@ This story is pulled because the principle inventory has reached a stable enough
 
 The current inventory defines strategies for six principles:
 
-- Grow without Losing Form as the founding umbrella principle.
+- Grow without Losing Form as a complementary principle that gives the method its spiral image and coherence criterion.
 - Value as Direction, using `value-generation.md` as the principle page.
 - Form in Service of Realization, using `grammar.md` as the principle page.
 - Grounded Progress, using `evidence.md` as the principle page.
@@ -40,13 +40,11 @@ The update must remain bilingual. Every public documentation change in `docs/` n
 
 ## Implementation Approach
 
-Canonical order:
+Canonical relation:
 
 ```text
-Founding principle:
+Complementary principles:
   Grow without Losing Form
-
-Operating principles:
   Value as Direction
   Form in Service of Realization
   Grounded Progress

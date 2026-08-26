@@ -2,15 +2,15 @@
 
 Os princípios Nautilus descrevem como o método preserva direção, forma, reconhecimento, continuidade e expansão enquanto conduz [Geração de Valor](value-generation.md) contínua por meio de colaboração humano-agêntica.
 
-Eles não são uma checklist. São critérios de orientação para ler se uma Jornada está crescendo segundo o método Nautilus.
+Eles não são uma checklist e não são uma hierarquia. São critérios complementares de orientação para ler se uma Jornada está crescendo segundo o método Nautilus.
 
-## Princípio fundador: Crescer sem Perder a Forma
+## Crescer sem Perder a Forma
 
 Cada avanço deve ampliar a capacidade da [Jornada](journey.md) preservando a coerência que permite continuar.
 
-Este é o princípio fundador de Nautilus. Ele vem da imagem do náutilo: o crescimento acontece pela abertura de novas câmaras sem abandonar a estrutura que sustenta a vida. No método, isso significa que cada Realização deve aumentar capacidade sem dissolver memória, critérios, direção ou coerência.
+Este princípio vem da imagem do náutilo: o crescimento acontece pela abertura de novas câmaras sem abandonar a estrutura que sustenta a vida. No método, isso significa que cada Realização deve aumentar capacidade sem dissolver memória, critérios, direção ou coerência.
 
-Os princípios operantes são expressões específicas desse princípio fundador.
+Ele dá ao método sua imagem espiral, mas não é superior aos outros princípios. Ele trabalha ao lado deles: valor dá direção, forma dá medida, evidência dá reconhecimento confiável, continuidade preserva forma no tempo e integração transforma cada movimento em capacidade ampliada.
 
 ## Valor como Direção
 
@@ -52,12 +52,12 @@ A expansão é integrada quando aprendizados, critérios, decisões, evidências
 
 Veja [Integração](integration.md).
 
-## Ordem dos princípios
+## Relação entre os princípios
 
-Os princípios formam uma sequência prática:
+Os princípios formam uma relação prática:
 
 ```text
-Crescer sem Perder a Forma dá unidade.
+Crescer sem Perder a Forma dá a imagem espiral e o critério de coerência.
 Valor como Direção dá orientação.
 Forma a Serviço da Realização dá medida.
 Avanço Sustentado dá reconhecimento confiável.
@@ -65,4 +65,4 @@ Continuidade Confiável preserva forma no tempo.
 Expansão Integrada transforma cada Realização em capacidade maior.
 ```
 
-Essa sequência não é um fluxo rígido de trabalho. É uma forma de ler se a espiral está crescendo com coerência.
+Essa relação não é um fluxo rígido de trabalho nem uma hierarquia. É uma forma de ler se a espiral está crescendo com coerência.

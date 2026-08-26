@@ -10,13 +10,13 @@ The goal is to transform effort into recognizable and cumulative [Value Generati
 
 This helps because effort without form becomes fog. Nautilus makes progress more reliable: the person can see what was realized, why it mattered, what [Evidence](method/evidence.md) sustains the movement, what was learned, and how it changes the next step.
 
-From the nautilus image comes its founding principle: **grow without losing form**. Each new advance should expand capacity without breaking coherence with what has already been built. Each turn of the spiral should end with more capacity than existed at the beginning: more language, more criteria, more memory, and more power to realize the next movement.
+From the nautilus image comes the principle **grow without losing form**. It is not above the other principles, but gives the method its spiral image: each new advance should expand capacity without breaking coherence with what has already been built. Each turn of the spiral should end with more capacity than existed at the beginning: more language, more criteria, more memory, and more power to realize the next movement.
 
 ## Principles
 
-The method operates through one founding principle and five operating principles:
+The method operates through six complementary principles:
 
-- **[Grow without Losing Form](method/principles.md#founding-principle-grow-without-losing-form)**: each advance should expand the Journey's capacity while preserving the coherence that allows it to continue.
+- **[Grow without Losing Form](method/principles.md#grow-without-losing-form)**: each advance should expand the Journey's capacity while preserving the coherence that allows it to continue.
 - **[Value as Direction](method/principles.md#value-as-direction)**: every Journey should orient its Realization by the value it seeks to make available in the Human Territory.
 - **[Form in Service of Realization](method/principles.md#form-in-service-of-realization)**: each form in the method should help value become realized without imposing unnecessary complexity.
 - **[Grounded Progress](method/principles.md#grounded-progress)**: progress should only be recognized when there is a trustworthy trace in the Human Territory.

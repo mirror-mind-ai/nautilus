@@ -12,7 +12,7 @@ The story stayed local to Nautilus Agentic Method documentation. It did not muta
 
 ## Product
 
-The principles now read as a coherent public method architecture rather than scattered concept notes. Grow without Losing Form gives unity. Value as Direction, Form in Service of Realization, Grounded Progress, Reliable Continuity, and Integrated Expansion define how Nautilus conducts value generation through the spiral.
+The principles now read as a coherent public method architecture rather than scattered concept notes. Grow without Losing Form gives the spiral image and coherence criterion, while Value as Direction, Form in Service of Realization, Grounded Progress, Reliable Continuity, and Integrated Expansion define how Nautilus conducts value generation through the spiral.
 
 ## Result
 

@@ -2,15 +2,15 @@
 
 The Nautilus principles describe how the method preserves direction, form, recognition, continuity, and expansion while conducting continuous [Value Generation](value-generation.md) through human-agentic collaboration.
 
-They are not a checklist. They are orientation criteria for reading whether a Journey is growing according to the Nautilus method.
+They are not a checklist and they are not a hierarchy. They are complementary orientation criteria for reading whether a Journey is growing according to the Nautilus method.
 
-## Founding principle: Grow without Losing Form
+## Grow without Losing Form
 
 Each advance should expand the [Journey](journey.md)'s capacity while preserving the coherence that allows it to continue.
 
-This is the founding principle of Nautilus. It comes from the nautilus image: growth happens by opening new chambers without abandoning the structure that sustains life. In the method, this means that each Realization should increase capacity without dissolving memory, criteria, direction, or coherence.
+This principle comes from the nautilus image: growth happens by opening new chambers without abandoning the structure that sustains life. In the method, this means that each Realization should increase capacity without dissolving memory, criteria, direction, or coherence.
 
-The operating principles are specific expressions of this founding principle.
+It gives the method its spiral image, but it is not superior to the other principles. It works beside them: value gives direction, form gives measure, evidence gives trustworthy recognition, continuity preserves form across time, and integration turns each movement into expanded capacity.
 
 ## Value as Direction
 
@@ -52,12 +52,12 @@ Expansion is integrated when learning, criteria, decisions, evidence, and impact
 
 See [Integration](integration.md).
 
-## Principle order
+## Principle relation
 
-The principles form a practical sequence:
+The principles form a practical relation:
 
 ```text
-Grow without Losing Form gives unity.
+Grow without Losing Form gives the spiral image and coherence criterion.
 Value as Direction gives orientation.
 Form in Service of Realization gives measure.
 Grounded Progress gives trustworthy recognition.
@@ -65,4 +65,4 @@ Reliable Continuity preserves form across time.
 Integrated Expansion turns each Realization into greater capacity.
 ```
 
-This sequence is not a rigid workflow. It is a way to read whether the spiral is growing with coherence.
+This relation is not a rigid workflow or a hierarchy. It is a way to read whether the spiral is growing with coherence.

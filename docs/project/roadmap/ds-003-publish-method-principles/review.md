@@ -4,7 +4,7 @@
 
 ## Changed Surface
 
-- Rebuilt `docs/method/principles.md` around one founding principle and five operating principles.
+- Rebuilt `docs/method/principles.md` around six complementary principles.
 - Rebuilt `docs/pt-br/method/principles.md` with the synchronized Portuguese principle architecture.
 - Updated Value Generation, Grammar, Evidence, Reliable Continuity, and Integration pages in English and Portuguese so each states its principle role and canonical sentence.
 - Marked DS-003 and its candidate stories done in the roadmap.
