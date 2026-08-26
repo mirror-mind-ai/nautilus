@@ -1,5 +1,7 @@
 # Reliable continuity
 
+Reliable Continuity is the principle that each turn of the Journey should preserve enough form for the next one to begin with more capacity, not reconstruction.
+
 Reliable continuity is the capacity of a Journey to continue without reconstructing from zero what was already lived, decided, delivered, evidenced, and learned.
 
 It appears when the next movement begins supported by preserved form: the Journey knows what happened, why it mattered, what evidence sustains progress, what learning was integrated, and what new capacity is available.

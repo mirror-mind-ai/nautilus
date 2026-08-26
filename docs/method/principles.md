@@ -1,51 +1,68 @@
 # Principles
 
-## Grow without losing form
+The Nautilus principles describe how the method preserves direction, form, recognition, continuity, and expansion while conducting continuous [Value Generation](value-generation.md) through human-agentic collaboration.
 
-The founding principle of Nautilus is to grow without losing form.
+They are not a checklist. They are orientation criteria for reading whether a Journey is growing according to the Nautilus method.
 
-Growth here does not mean merely doing more. It means expanding the capacity to generate value while preserving coherence with what was already lived, decided, delivered, and learned.
+## Founding principle: Grow without Losing Form
 
-This principle dialogues with the Aristotelian passage from potency to act: the method is interested in the moment when a possibility stops being only available energy and becomes recognizable [Realization](realization.md) in the [Human Territory](human-territory.md). With [Value Generation](value-generation.md), this passage also gains ethical orientation: what value is being made available, for whom, and at what cost? See [Aristotelian influences](aristotelian-influences.md).
+Each advance should expand the [Journey](journey.md)'s capacity while preserving the coherence that allows it to continue.
 
-Each turn of the spiral should end with a leap in capacity. The [Journey](journey.md) concludes something, recognizes what happened, integrates learning, and becomes able to realize the next movement with more language, more criteria, more memory, and more power than before.
+This is the founding principle of Nautilus. It comes from the nautilus image: growth happens by opening new chambers without abandoning the structure that sustains life. In the method, this means that each Realization should increase capacity without dissolving memory, criteria, direction, or coherence.
 
-## Semantic chambers
+The operating principles are specific expressions of this founding principle.
 
-The method grows through semantic chambers.
+## Value as Direction
 
-A chamber is a slice of language that adds capacity to the grammar. It must be small enough to be understood and large enough to produce real progress.
+Every Journey should orient its [Realization](realization.md) by the value it seeks to make available in the [Human Territory](human-territory.md).
 
-A new chamber should enter only when it can preserve coherence across Method, Protocol, Mirror Extension, and Harness.
+Value gives the method its direction. A Journey should not begin only by asking what will be done, produced, or automated. It should ask what value is being sought and what kind of contribution should become available in the Human Territory.
 
-## Simple surface, rich backstage
+See [Value Generation](value-generation.md).
 
-The human experience should remain simple.
+## Form in Service of Realization
 
-The ontology may become rich backstage, but the [Participant](participant.md) should not be forced to carry all formal complexity in order to use the method. The Harness and technical bodies absorb part of that complexity. The Method preserves the language that enables practice.
+Each form in the method should help value become realized in the Human Territory without imposing more complexity than the Journey needs to carry.
 
-## Formulation before execution
+The grammar exists to serve the controllable passage of Realization. It should help Participants formulate, produce, make available, evidence, recognize, and integrate. When form becomes heavier than the work needs, it turns into bureaucracy. When it is too weak, the Journey loses recognizability.
 
-Nautilus recognizes formulation as real work.
+See [Grammar](grammar.md) and [Mission Integrity Test](integrity-test.md).
 
-Before executing, a Journey needs to name the movement and the value it seeks to generate. A formulated [Mission](mission.md) is not a delayed task. It is an intention that gained minimal form and should not carry premature execution details.
+## Grounded Progress
 
-## Evidence before recognition
+A Journey should only recognize progress when there is a trustworthy trace that value was made available, transformed, or learned in the Human Territory.
 
-[Realization](realization.md) should not depend only on subjective impression or administrative closure.
+This principle protects the Journey from confusing activity, intention, volume, or subjective impression with progress. Evidence is the mechanism of Grounded Progress: it gives enough trace for recognition without requiring every movement to become heavy validation.
 
-A Realization needs proportional [Evidence](evidence.md). Evidence may vary according to the type of [Delivery](delivery.md), but it must allow Participants to recognize what happened.
+See [Evidence](evidence.md).
 
-At the high level of the Journey, Evidence of Realization plays a role analogous to automated tests, reviews, and quality or integrity checks at lower levels of work. It makes progress reliable without requiring every recognition to become bureaucracy.
+## Reliable Continuity
 
-## Integration before the next expansion
+Each turn of the Journey should preserve enough form for the next one to begin with more capacity, not reconstruction.
 
-Without [Integration](integration.md), work accumulates as episodes.
+Continuity is reliable when the Journey can resume from what was lived, decided, delivered, evidenced, and learned. The opposite of continuity is not interruption. It is dispersion: traces exist, but they do not form practicable ground for the next movement.
 
-Integration preserves learning in the next growth. It may transform language, memory, decision, pattern, or operating form.
+See [Reliable Continuity](reliable-continuity.md).
 
-## Conscious minimality
+## Integrated Expansion
 
-Minimality is not lack of ambition.
+Each Realization should expand the Journey's capacity without breaking the form that allows it to continue.
 
-In this phase, minimality is discipline. The method knows it will need to speak of Value Generation, Delivery, Evidence, Realization, Impact, Integration, Role, Authority, and Execution. But it does not anticipate these structures before testing them in real cases.
+Expansion is integrated when learning, criteria, decisions, evidence, and impact signals become future capacity. The goal is not accumulation. It is a more capable next chamber: more language, more memory, more discernment, and more power to generate value.
+
+See [Integration](integration.md).
+
+## Principle order
+
+The principles form a practical sequence:
+
+```text
+Grow without Losing Form gives unity.
+Value as Direction gives orientation.
+Form in Service of Realization gives measure.
+Grounded Progress gives trustworthy recognition.
+Reliable Continuity preserves form across time.
+Integrated Expansion turns each Realization into greater capacity.
+```
+
+This sequence is not a rigid workflow. It is a way to read whether the spiral is growing with coherence.

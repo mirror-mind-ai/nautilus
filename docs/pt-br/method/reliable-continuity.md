@@ -1,6 +1,8 @@
 # Continuidade confiável
 
-Continuidade confiável é a capacidade de uma [jornada](journey.md) continuar sem precisar reconstruir do zero o que já foi vivido, decidido, entregue, evidenciado e aprendido.
+Continuidade Confiável é o princípio de que cada giro da Jornada deve preservar forma suficiente para que o próximo comece com mais capacidade, não com reconstrução.
+
+Continuidade confiável é a capacidade de uma [Jornada](journey.md) continuar sem precisar reconstruir do zero o que já foi vivido, decidido, entregue, evidenciado e aprendido.
 
 Ela aparece quando o próximo movimento começa apoiado por forma preservada: a jornada sabe o que aconteceu, por que importou, que [evidências](evidence.md) sustentam o avanço, que aprendizado foi integrado e que capacidade nova está disponível.
 

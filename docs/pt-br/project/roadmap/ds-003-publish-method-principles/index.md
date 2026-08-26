@@ -2,7 +2,7 @@
 
 # DS-003, Publish Method Principles
 
-**Status:** 🟡 Planned
+**Status:** ✅ Done
 
 ---
 
@@ -14,10 +14,10 @@ Nautilus documentation publishes the method principles as a coherent set: one fo
 
 | Code | Story | Type | Outcome | Status |
 |------|-------|------|---------|--------|
-| TS-001 | Rebuild principles page | Technical Story | `principles.md` presents the founding principle and operating principles in canonical order | 🟡 Planned |
-| TS-002 | Recast concept pages as principle pages | Technical Story | Value Generation, Grammar, Evidence, Reliable Continuity, and Integration pages state their principle role clearly | 🟡 Planned |
-| TS-003 | Update navigation and reading paths | Technical Story | Navigation and reading paths expose principles without duplicating the concept structure unnecessarily | 🟡 Planned |
-| TS-004 | Validate bilingual coherence | Technical Story | English and Portuguese pages remain synchronized and MkDocs builds successfully | 🟡 Planned |
+| TS-001 | Rebuild principles page | Technical Story | `principles.md` presents the founding principle and operating principles in canonical order | ✅ Done |
+| TS-002 | Recast concept pages as principle pages | Technical Story | Value Generation, Grammar, Evidence, Reliable Continuity, and Integration pages state their principle role clearly | ✅ Done |
+| TS-003 | Update navigation and reading paths | Technical Story | Navigation and reading paths expose principles without duplicating the concept structure unnecessarily | ✅ Done |
+| TS-004 | Validate bilingual coherence | Technical Story | English and Portuguese pages remain synchronized and MkDocs builds successfully | ✅ Done |
 
 ## Done Condition
 

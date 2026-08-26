@@ -4,16 +4,16 @@
 
 ## Process
 
-Ariad story created before implementation. Plan requires Navigator approval before editing method documentation.
+Plan was approved before implementation. The implementation followed the planned principle architecture and updated English and Portuguese artifacts together.
 
 ## Project
 
-The story is local to Nautilus Agentic Method documentation. It does not mutate Protocol, Mirror Extension, or Harness implementation.
+The story stayed local to Nautilus Agentic Method documentation. It did not mutate Protocol, Mirror Extension, or Harness implementation.
 
 ## Product
 
-The proposed change publishes the principles already stabilized in the principles inventory, while leaving weaker candidates unpromoted.
+The principles now read as a coherent public method architecture rather than scattered concept notes. Grow without Losing Form gives unity. Value as Direction, Form in Service of Realization, Grounded Progress, Reliable Continuity, and Integrated Expansion define how Nautilus conducts value generation through the spiral.
 
 ## Result
 
-Coherent. Next action: Navigator approves, adjusts, or rejects the plan.
+Coherent. MkDocs builds successfully and obsolete candidate principle names are absent from public method pages.

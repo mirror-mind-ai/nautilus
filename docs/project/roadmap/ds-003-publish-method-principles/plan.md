@@ -124,4 +124,4 @@ Fail condition: the docs still read as a list of scattered concepts rather than 
 
 ## Checkpoint
 
-Implementation must not start until the Navigator approves this plan.
+Approved by the Navigator. Implementation may start.

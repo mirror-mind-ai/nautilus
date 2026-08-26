@@ -1,51 +1,68 @@
 # Princípios
 
-## Crescer sem perder a forma
+Os princípios Nautilus descrevem como o método preserva direção, forma, reconhecimento, continuidade e expansão enquanto conduz [Geração de Valor](value-generation.md) contínua por meio de colaboração humano-agêntica.
 
-O princípio fundador de Nautilus é crescer sem perder a forma.
+Eles não são uma checklist. São critérios de orientação para ler se uma Jornada está crescendo segundo o método Nautilus.
 
-Crescimento, aqui, não significa apenas fazer mais. Significa ampliar a capacidade de gerar valor preservando coerência com o que já foi vivido, decidido, entregue e aprendido.
+## Princípio fundador: Crescer sem Perder a Forma
 
-Esse princípio dialoga com a passagem aristotélica de potência a ato: o método se interessa pelo momento em que uma possibilidade deixa de ser apenas energia disponível e se torna [Realização](realization.md) reconhecível no [Território Humano](human-territory.md). Com a [Geração de Valor](value-generation.md), essa passagem também ganha orientação ética: que valor está sendo disponibilizado, para quem e a que custo? Ver [Influências aristotélicas](aristotelian-influences.md).
+Cada avanço deve ampliar a capacidade da [Jornada](journey.md) preservando a coerência que permite continuar.
 
-Cada giro da espiral deve terminar com um salto de capacidade. A [Jornada](journey.md) conclui algo, reconhece o que aconteceu, integra o aprendizado e passa a conseguir realizar o próximo movimento com mais linguagem, mais critério, mais memória e mais potência do que antes.
+Este é o princípio fundador de Nautilus. Ele vem da imagem do náutilo: o crescimento acontece pela abertura de novas câmaras sem abandonar a estrutura que sustenta a vida. No método, isso significa que cada Realização deve aumentar capacidade sem dissolver memória, critérios, direção ou coerência.
 
-## Câmaras semânticas
+Os princípios operantes são expressões específicas desse princípio fundador.
 
-O método cresce por câmaras semânticas.
+## Valor como Direção
 
-Uma câmara é uma fatia de linguagem que acrescenta capacidade à gramática. Ela deve ser pequena o suficiente para ser compreendida e grande o suficiente para produzir avanço real.
+Toda Jornada deve orientar sua [Realização](realization.md) pelo valor que busca tornar disponível no [Território Humano](human-territory.md).
 
-Uma nova câmara só deve entrar quando consegue manter correspondência entre Method, Protocol, Mirror Extension e Harness.
+Valor dá direção ao método. Uma Jornada não deve começar apenas perguntando o que será feito, produzido ou automatizado. Ela deve perguntar que valor está sendo buscado e que tipo de contribuição deve se tornar disponível no Território Humano.
 
-## Superfície simples, bastidores ricos
+Veja [Geração de Valor](value-generation.md).
 
-A experiência humana deve permanecer simples.
+## Forma a Serviço da Realização
 
-A ontologia pode se tornar rica nos bastidores, mas o [Participante](participant.md) não deve ser obrigado a carregar toda a complexidade formal para usar o método. O Harness e os corpos técnicos absorvem parte dessa complexidade. O Method preserva a linguagem que permite praticar.
+Cada forma do método deve ajudar o valor a se realizar no Território Humano sem impor complexidade maior do que a Jornada precisa carregar.
 
-## Formulação antes da execução
+A gramática existe para servir à passagem controlável da Realização. Ela deve ajudar Participantes a formular, produzir, disponibilizar, evidenciar, reconhecer e integrar. Quando a forma fica mais pesada do que o trabalho precisa, ela vira burocracia. Quando fica fraca demais, a Jornada perde reconhecibilidade.
 
-Nautilus reconhece a formulação como trabalho real.
+Veja [Gramática](grammar.md) e [Teste de Inteireza da Missão](integrity-test.md).
 
-Antes de executar, uma Jornada precisa nomear o movimento e o valor que busca gerar. Uma [Missão](mission.md) formulada não é uma tarefa atrasada. Ela é uma intenção que ganhou forma mínima e ainda não deve carregar detalhes prematuros de execução.
+## Avanço Sustentado
 
-## Evidência antes de reconhecimento
+Uma Jornada só deve reconhecer avanço quando houver lastro suficiente de que valor foi tornado disponível, transformado ou aprendido no Território Humano.
 
-[Realização](realization.md) não deve depender apenas de impressão subjetiva ou de encerramento administrativo.
+Este princípio protege a Jornada de confundir atividade, intenção, volume ou impressão subjetiva com progresso. Evidência é o mecanismo do Avanço Sustentado: ela oferece lastro suficiente para reconhecimento sem exigir que todo movimento vire validação pesada.
 
-Uma Realização precisa de [Evidência](evidence.md) proporcional. A evidência pode variar conforme o tipo de [Entrega](delivery.md), mas precisa permitir que Participantes reconheçam o que aconteceu.
+Veja [Evidência](evidence.md).
 
-No nível alto da jornada, Evidências de Realização cumprem papel análogo ao de testes automatizados, revisões e verificações de qualidade ou integridade em níveis mais baixos do trabalho. Elas tornam o avanço confiável sem exigir que todo reconhecimento vire burocracia.
+## Continuidade Confiável
 
-## Integração antes da próxima expansão
+Cada giro da Jornada deve preservar forma suficiente para que o próximo comece com mais capacidade, não com reconstrução.
 
-Sem [Integração](integration.md), o trabalho se acumula como episódio.
+A continuidade é confiável quando a Jornada consegue retomar a partir do que foi vivido, decidido, entregue, evidenciado e aprendido. O oposto da continuidade não é a interrupção. É a dispersão: os rastros existem, mas não formam chão praticável para o próximo movimento.
 
-A Integração preserva o aprendizado no crescimento seguinte. Ela pode transformar linguagem, memória, decisão, padrão ou forma operacional.
+Veja [Continuidade Confiável](reliable-continuity.md).
 
-## Minimalidade consciente
+## Expansão Integrada
 
-Minimalidade não é ausência de ambição.
+Cada Realização deve expandir a capacidade da Jornada sem romper a forma que permite continuar.
 
-Nesta fase, minimalidade é disciplina. O método sabe que precisará falar de Geração de Valor, Entrega, Evidência, Realização, Impacto, Integração, Papel, Autoridade e Execução. Mas ele não antecipa essas estruturas antes de conseguir testá-las em casos reais.
+A expansão é integrada quando aprendizados, critérios, decisões, evidências e sinais de impacto se tornam capacidade futura. O objetivo não é acúmulo. É uma próxima câmara mais capaz: mais linguagem, mais memória, mais discernimento e mais potência para gerar valor.
+
+Veja [Integração](integration.md).
+
+## Ordem dos princípios
+
+Os princípios formam uma sequência prática:
+
+```text
+Crescer sem Perder a Forma dá unidade.
+Valor como Direção dá orientação.
+Forma a Serviço da Realização dá medida.
+Avanço Sustentado dá reconhecimento confiável.
+Continuidade Confiável preserva forma no tempo.
+Expansão Integrada transforma cada Realização em capacidade maior.
+```
+
+Essa sequência não é um fluxo rígido de trabalho. É uma forma de ler se a espiral está crescendo com coerência.

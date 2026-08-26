@@ -4,16 +4,19 @@
 
 ## Changed Surface
 
-Pending implementation.
+- Rebuilt `docs/method/principles.md` around one founding principle and five operating principles.
+- Rebuilt `docs/pt-br/method/principles.md` with the synchronized Portuguese principle architecture.
+- Updated Value Generation, Grammar, Evidence, Reliable Continuity, and Integration pages in English and Portuguese so each states its principle role and canonical sentence.
+- Marked DS-003 and its candidate stories done in the roadmap.
 
 ## Debt Scan
 
-Pending implementation.
+No immediate debt requires payment. Navigation was left unchanged because the principles page now exposes the architecture clearly without duplicating concept pages in the sidebar.
 
 ## Recommendation
 
-Pending implementation.
+No action now. Defer any navigation redesign until visual review shows that principle pages are hard to discover.
 
 ## Navigator Decision
 
-Pending.
+Plan approved by the Navigator and implemented.

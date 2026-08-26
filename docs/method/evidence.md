@@ -1,6 +1,8 @@
 # Evidence
 
-Evidence is the proportional trace that sustains the recognition that [value](value-generation.md) was made available through a [Realization](realization.md).
+Evidence is the proportional trace that sustains the recognition that [value](value-generation.md) was made available through a [Realization](realization.md). It is the mechanism of the **Grounded Progress** principle.
+
+**A Journey should only recognize progress when there is a trustworthy trace that value was made available, transformed, or learned in the Human Territory.**
 
 It allows [Participants](participant.md) to trust that something moved in the [Human Territory](human-territory.md), instead of depending only on the subjective feeling of progress.
 

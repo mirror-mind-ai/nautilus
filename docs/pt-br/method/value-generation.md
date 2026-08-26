@@ -1,6 +1,8 @@
 # Geração de Valor
 
-Geração de Valor é o propósito central de Nautilus.
+Geração de Valor é o propósito central de Nautilus e a página conceitual do princípio **Valor como Direção**.
+
+**Toda Jornada deve orientar sua Realização pelo valor que busca tornar disponível no Território Humano.**
 
 Nautilus é um método para geração contínua de valor por meio de colaboração humano-agêntica. Ele ajuda humanos e agentes a conduzir trabalho para que esforço se torne valor disponibilizado no [Território Humano](human-territory.md), sustentado por [Evidências](evidence.md), observado por [Impacto](impact.md) e integrado como capacidade futura.
 

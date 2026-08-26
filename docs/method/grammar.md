@@ -1,6 +1,8 @@
 # Grammar
 
-The current Nautilus grammar is a minimal surface of value generation.
+The current Nautilus grammar is a minimal surface of value generation and the concept page for the **Form in Service of Realization** principle.
+
+**Each form in the method should help value become realized in the Human Territory without imposing more complexity than the Journey needs to carry.**
 
 It organizes ten founding concepts: [Value Generation](value-generation.md), [Human Territory](human-territory.md), [Journey](journey.md), [Participant](participant.md), [Mission](mission.md), [Delivery](delivery.md), [Evidence](evidence.md), [Realization](realization.md), [Impact](impact.md), and [Integration](integration.md).
 

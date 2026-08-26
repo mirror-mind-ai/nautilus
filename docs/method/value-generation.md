@@ -1,6 +1,8 @@
 # Value Generation
 
-Value Generation is the central purpose of Nautilus.
+Value Generation is the central purpose of Nautilus and the concept page for the **Value as Direction** principle.
+
+**Every Journey should orient its Realization by the value it seeks to make available in the Human Territory.**
 
 Nautilus is a method for continuous value generation through human-agentic collaboration. It helps humans and agents conduct work so that effort becomes value made available in the [Human Territory](human-territory.md), sustained by [Evidence](evidence.md), observed through [Impact](impact.md), and integrated as future capacity.
 

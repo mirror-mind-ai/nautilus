@@ -1,6 +1,8 @@
 # Evidência
 
-Evidência é o vestígio proporcional que sustenta o reconhecimento de que [valor](value-generation.md) foi disponibilizado por meio de uma [Realização](realization.md).
+Evidência é o vestígio proporcional que sustenta o reconhecimento de que [valor](value-generation.md) foi disponibilizado por meio de uma [Realização](realization.md). Ela é o mecanismo do princípio **Avanço Sustentado**.
+
+**Uma Jornada só deve reconhecer avanço quando houver lastro suficiente de que valor foi tornado disponível, transformado ou aprendido no Território Humano.**
 
 Ela permite que os [Participantes](participant.md) confiem que algo se moveu no [Território Humano](human-territory.md), em vez de depender apenas da sensação subjetiva de progresso.
 

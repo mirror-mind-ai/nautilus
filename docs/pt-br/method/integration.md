@@ -1,5 +1,9 @@
 # Integração
 
+Integração é o mecanismo do princípio **Expansão Integrada**.
+
+**Cada Realização deve expandir a capacidade da Jornada sem romper a forma que permite continuar.**
+
 Integração é o gesto que preserva aprendizado, decisão, critério, sinais de Impacto ou capacidade no próximo giro da [Jornada](journey.md).
 
 Ela impede que uma [Realização](realization.md) vire episódio isolado. Quando a Integração acontece, o trabalho realizado altera o ponto de partida da próxima sessão: a jornada continua com mais linguagem, mais memória, mais critério e mais potência para realizar.

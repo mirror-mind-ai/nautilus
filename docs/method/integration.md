@@ -1,5 +1,9 @@
 # Integration
 
+Integration is the mechanism of the **Integrated Expansion** principle.
+
+**Each Realization should expand the Journey's capacity without breaking the form that allows it to continue.**
+
 Integration is the gesture that preserves learning, decision, criteria, Impact signals, or capacity in the next turn of the Journey.
 
 It prevents a [Realization](realization.md) from becoming an isolated episode. When Integration happens, realized work changes the starting point of the next session: the Journey continues with more language, more memory, more criteria, and more power to realize.
