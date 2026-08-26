@@ -12,6 +12,17 @@ Isso ajuda porque esforço sem forma vira névoa. Nautilus torna o avanço mais 
 
 Da imagem do náutilo vem seu princípio fundador: **crescer sem perder a forma**. Cada novo avanço deve ampliar capacidade sem romper a coerência com o que já foi construído. Cada giro da espiral deve terminar com mais capacidade do que havia no início: mais linguagem, mais critério, mais memória e mais potência para realizar o próximo movimento.
 
+## Princípios
+
+O método opera por um princípio fundador e cinco princípios operantes:
+
+- **[Crescer sem Perder a Forma](method/principles.md#principio-fundador-crescer-sem-perder-a-forma)**: cada avanço deve ampliar a capacidade da Jornada preservando a coerência que permite continuar.
+- **[Valor como Direção](method/principles.md#valor-como-direcao)**: toda Jornada deve orientar sua Realização pelo valor que busca tornar disponível no Território Humano.
+- **[Forma a Serviço da Realização](method/principles.md#forma-a-servico-da-realizacao)**: cada forma do método deve ajudar o valor a se realizar sem impor complexidade desnecessária.
+- **[Avanço Sustentado](method/principles.md#avanco-sustentado)**: o avanço só deve ser reconhecido quando houver lastro confiável no Território Humano.
+- **[Continuidade Confiável](method/principles.md#continuidade-confiavel)**: cada giro deve permitir que o próximo comece com mais capacidade, não com reconstrução.
+- **[Expansão Integrada](method/principles.md#expansao-integrada)**: cada Realização deve expandir capacidade sem romper a forma que permite à Jornada continuar.
+
 ## Caminho de leitura
 
 Comece por [Visão geral](method/index.md) para entender a intenção do método.
