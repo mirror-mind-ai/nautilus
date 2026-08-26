@@ -4,14 +4,6 @@ Os princípios Nautilus descrevem como o método preserva direção, forma, reco
 
 Eles não são uma checklist e não são uma hierarquia. São critérios complementares de orientação para ler se uma Jornada está crescendo segundo o método Nautilus.
 
-## Crescer sem Perder a Forma
-
-Cada avanço deve ampliar a capacidade da [Jornada](journey.md) preservando a coerência que permite continuar.
-
-Este princípio vem da imagem do náutilo: o crescimento acontece pela abertura de novas câmaras sem abandonar a estrutura que sustenta a vida. No método, isso significa que cada Realização deve aumentar capacidade sem dissolver memória, critérios, direção ou coerência.
-
-Ele dá ao método sua imagem espiral, mas não é superior aos outros princípios. Ele trabalha ao lado deles: valor dá direção, forma dá medida, evidência dá reconhecimento confiável, continuidade preserva forma no tempo e integração transforma cada movimento em capacidade ampliada.
-
 ## Valor como Direção
 
 Toda Jornada deve orientar sua [Realização](realization.md) pelo valor que busca tornar disponível no [Território Humano](human-territory.md).
@@ -19,6 +11,14 @@ Toda Jornada deve orientar sua [Realização](realization.md) pelo valor que bus
 Valor dá direção ao método. Uma Jornada não deve começar apenas perguntando o que será feito, produzido ou automatizado. Ela deve perguntar que valor está sendo buscado e que tipo de contribuição deve se tornar disponível no Território Humano.
 
 Veja [Geração de Valor](value-generation.md).
+
+## Crescer sem Perder a Forma
+
+Cada avanço deve ampliar a capacidade da [Jornada](journey.md) preservando a coerência que permite continuar.
+
+Este princípio vem da imagem do náutilo: o crescimento acontece pela abertura de novas câmaras sem abandonar a estrutura que sustenta a vida. No método, isso significa que cada Realização deve aumentar capacidade sem dissolver memória, critérios, direção ou coerência.
+
+Ele dá ao método sua imagem espiral, mas não é superior aos outros princípios. Ele trabalha ao lado deles: valor dá direção, forma dá medida, evidência dá reconhecimento confiável, continuidade preserva forma no tempo e integração transforma cada movimento em capacidade ampliada.
 
 ## Forma a Serviço da Realização
 
@@ -57,8 +57,8 @@ Veja [Integração](integration.md).
 Os princípios formam uma relação prática:
 
 ```text
-Crescer sem Perder a Forma dá a imagem espiral e o critério de coerência.
 Valor como Direção dá orientação.
+Crescer sem Perder a Forma dá a imagem espiral e o critério de coerência.
 Forma a Serviço da Realização dá medida.
 Avanço Sustentado dá reconhecimento confiável.
 Continuidade Confiável preserva forma no tempo.

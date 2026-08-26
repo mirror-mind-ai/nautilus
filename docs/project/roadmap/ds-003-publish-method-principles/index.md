@@ -21,4 +21,4 @@ Nautilus documentation publishes the method principles as a coherent set: six co
 
 ## Done Condition
 
-The story is done when English and Portuguese documentation consistently present Grow without Losing Form, Value as Direction, Form in Service of Realization, Grounded Progress, Reliable Continuity, and Integrated Expansion as complementary principles, with canonical sentences preserved and MkDocs building successfully.
+The story is done when English and Portuguese documentation consistently present Value as Direction, Grow without Losing Form, Form in Service of Realization, Grounded Progress, Reliable Continuity, and Integrated Expansion as complementary principles, with canonical sentences preserved and MkDocs building successfully.

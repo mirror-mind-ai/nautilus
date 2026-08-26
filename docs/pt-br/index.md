@@ -16,8 +16,8 @@ Da imagem do náutilo vem o princípio **crescer sem perder a forma**. Ele não 
 
 O método opera por seis princípios complementares:
 
-- **[Crescer sem Perder a Forma](method/principles.md#crescer-sem-perder-a-forma)**: cada avanço deve ampliar a capacidade da Jornada preservando a coerência que permite continuar.
 - **[Valor como Direção](method/principles.md#valor-como-direcao)**: toda Jornada deve orientar sua Realização pelo valor que busca tornar disponível no Território Humano.
+- **[Crescer sem Perder a Forma](method/principles.md#crescer-sem-perder-a-forma)**: cada avanço deve ampliar a capacidade da Jornada preservando a coerência que permite continuar.
 - **[Forma a Serviço da Realização](method/principles.md#forma-a-servico-da-realizacao)**: cada forma do método deve ajudar o valor a se realizar sem impor complexidade desnecessária.
 - **[Avanço Sustentado](method/principles.md#avanco-sustentado)**: o avanço só deve ser reconhecido quando houver lastro confiável no Território Humano.
 - **[Continuidade Confiável](method/principles.md#continuidade-confiavel)**: cada giro deve permitir que o próximo comece com mais capacidade, não com reconstrução.

@@ -44,8 +44,8 @@ Canonical relation:
 
 ```text
 Complementary principles:
-  Grow without Losing Form
   Value as Direction
+  Grow without Losing Form
   Form in Service of Realization
   Grounded Progress
   Reliable Continuity

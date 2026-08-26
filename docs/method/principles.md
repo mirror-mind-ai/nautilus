@@ -4,14 +4,6 @@ The Nautilus principles describe how the method preserves direction, form, recog
 
 They are not a checklist and they are not a hierarchy. They are complementary orientation criteria for reading whether a Journey is growing according to the Nautilus method.
 
-## Grow without Losing Form
-
-Each advance should expand the [Journey](journey.md)'s capacity while preserving the coherence that allows it to continue.
-
-This principle comes from the nautilus image: growth happens by opening new chambers without abandoning the structure that sustains life. In the method, this means that each Realization should increase capacity without dissolving memory, criteria, direction, or coherence.
-
-It gives the method its spiral image, but it is not superior to the other principles. It works beside them: value gives direction, form gives measure, evidence gives trustworthy recognition, continuity preserves form across time, and integration turns each movement into expanded capacity.
-
 ## Value as Direction
 
 Every Journey should orient its [Realization](realization.md) by the value it seeks to make available in the [Human Territory](human-territory.md).
@@ -19,6 +11,14 @@ Every Journey should orient its [Realization](realization.md) by the value it se
 Value gives the method its direction. A Journey should not begin only by asking what will be done, produced, or automated. It should ask what value is being sought and what kind of contribution should become available in the Human Territory.
 
 See [Value Generation](value-generation.md).
+
+## Grow without Losing Form
+
+Each advance should expand the [Journey](journey.md)'s capacity while preserving the coherence that allows it to continue.
+
+This principle comes from the nautilus image: growth happens by opening new chambers without abandoning the structure that sustains life. In the method, this means that each Realization should increase capacity without dissolving memory, criteria, direction, or coherence.
+
+It gives the method its spiral image, but it is not superior to the other principles. It works beside them: value gives direction, form gives measure, evidence gives trustworthy recognition, continuity preserves form across time, and integration turns each movement into expanded capacity.
 
 ## Form in Service of Realization
 
@@ -57,8 +57,8 @@ See [Integration](integration.md).
 The principles form a practical relation:
 
 ```text
-Grow without Losing Form gives the spiral image and coherence criterion.
 Value as Direction gives orientation.
+Grow without Losing Form gives the spiral image and coherence criterion.
 Form in Service of Realization gives measure.
 Grounded Progress gives trustworthy recognition.
 Reliable Continuity preserves form across time.
