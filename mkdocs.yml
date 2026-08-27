@@ -30,12 +30,13 @@ nav:
       - Nautilus Family: method/family.md
       - Identity: method/identity.md
   - Principles:
-      - Value as Direction: method/value-generation.md
-      - Grow without Losing Form: method/principles.md
-      - Form in Service of Realization: method/grammar.md
-      - Grounded Progress: method/evidence.md
-      - Reliable Continuity: method/reliable-continuity.md
-      - Integrated Expansion: method/integration.md
+      - Overview: method/principles.md
+      - Value as Direction: method/principles/value-as-direction.md
+      - Grow without Losing Form: method/principles/grow-without-losing-form.md
+      - Form in Service of Realization: method/principles/form-in-service-of-realization.md
+      - Grounded Progress: method/principles/grounded-progress.md
+      - Reliable Continuity: method/principles/reliable-continuity.md
+      - Integrated Expansion: method/principles/integrated-expansion.md
   - Realization Cycle:
       - Conceptual Arc: method/conceptual-arc.md
       - Human Territory: method/human-territory.md
