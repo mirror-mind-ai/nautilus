@@ -26,10 +26,16 @@ nav:
   - Method:
       - Overview: method/index.md
       - Value Generation: method/value-generation.md
-      - Principles: method/principles.md
       - Aristotelian influences: method/aristotelian-influences.md
       - Nautilus Family: method/family.md
       - Identity: method/identity.md
+  - Principles:
+      - Value as Direction: method/value-generation.md
+      - Grow without Losing Form: method/principles.md
+      - Form in Service of Realization: method/grammar.md
+      - Grounded Progress: method/evidence.md
+      - Reliable Continuity: method/reliable-continuity.md
+      - Integrated Expansion: method/integration.md
   - Realization Cycle:
       - Conceptual Arc: method/conceptual-arc.md
       - Human Territory: method/human-territory.md
