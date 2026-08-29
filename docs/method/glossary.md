@@ -54,7 +54,23 @@ Fundamental characteristic of a Participant, such as human or agentic. The curre
 
 ## Mission
 
-Named intention of value generation through realization. In the current version, it is formulative and minimal.
+Unit of Realization in conduct. It names a movement before recognition and carries the responsibility frame that distinguishes it from a task.
+
+## Task
+
+Unit of execution inside an assumed frame. A task may have intention, Delivery, and Evidence, but it does not need to hold the whole responsibility for value, authority, Participants, sufficiency, and Integration.
+
+## Mission field
+
+Visible relation among simultaneous Missions, tasks, Evidence, learning, and boundaries of responsibility inside a Journey.
+
+## Cadenced Mission
+
+Mission that sustains a rhythm of value generation over time rather than producing one closed output.
+
+## Constructive Mission
+
+Mission that creates a new capability, artifact, structure, or state.
 
 ## Delivery
 
@@ -99,3 +115,7 @@ Slice of language that adds capacity to the method without breaking the previous
 ## Mission Integrity Test
 
 Instrument for verifying whether a Mission is minimally formulated without carrying premature execution.
+
+## Extract Missions from Agent-Human Interactions
+
+Practice of observing real human-agentic conversations and recognizing whether they contain tasks, Mission candidates, a Mission field, Evidence candidates, or Integration notes.

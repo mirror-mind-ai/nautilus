@@ -40,9 +40,11 @@ A versão atual reconhece a existência de Participantes, mas ainda não define 
 
 ## Missão
 
-Uma Missão é uma intenção nomeada de geração de valor por meio de realização.
+Uma Missão é uma unidade de geração de valor por meio de Realização em condução.
 
-Ela dá forma ao movimento antes da execução. Na fatia atual, a Missão é formulativa. Ela ainda não executa, atribui papéis, produz entrega, coleta evidência, marca realização ou integra aprendizado.
+Ela dá forma ao movimento antes da execução e carrega o contorno de responsabilidade que a distingue de uma tarefa. Uma tarefa executa dentro de um quadro assumido. Uma Missão torna o quadro legível: valor, propósito, Participantes, autoridade, escopo proporcional, possível Entrega, Evidência e Integração.
+
+Na fatia atual, a Missão é formulativa. Ela ainda não executa, atribui papéis completos, produz entrega, coleta evidência, marca realização ou integra aprendizado.
 
 Uma Missão mínima possui `id`, `title`, `purpose` e `status`.
 
@@ -63,6 +65,8 @@ A Evidência deve ser proporcional à Entrega. Um documento pode ter o próprio 
 ## Realização
 
 [Realização](realization.md) é o reconhecimento de que uma intenção atravessou o campo, tocou o [Território Humano](human-territory.md) e tornou algo disponível ou diferente ali.
+
+Missão e Realização são momentos diferentes de um mesmo movimento. Missão é Realização em condução, antes do reconhecimento. Realização é o reconhecimento de que valor se tornou disponível, sustentado por Evidência.
 
 Ela não é sinônimo de tarefa concluída. Uma tarefa pode terminar sem Realização quando não preserva sentido, evidência, disponibilidade ou aprendizado. Uma Realização pode incluir deslocamento de compreensão, estabilização de linguagem, publicação, disponibilidade ou mudança de estado, desde que haja Evidência proporcional e diferença reconhecível no Território Humano.
 
@@ -87,7 +91,8 @@ Geração de Valor dá direção.
 Território Humano abriga Jornadas.
 Jornadas são atravessadas por Participantes.
 Participantes formulam Missões.
-Missões orientam Entregas.
+Missões orientam tarefas e Entregas.
+Tarefas podem servir a uma ou mais Missões.
 Entregas produzem Evidências.
 Evidências sustentam Realizações.
 Realizações podem gerar Impacto.

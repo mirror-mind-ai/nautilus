@@ -6,7 +6,7 @@ O Teste de Inteireza da [Missão](mission.md) verifica se uma Missão está sufi
 
 O teste se apoia, implicitamente, na leitura aristotélica das quatro causas. Ver [Influências aristotélicas](aristotelian-influences.md).
 
-Uma Missão minimamente inteira precisa ter contexto e materialidade suficientes no [Mapa Agêntico](agentic-map.md), forma reconhecível, movimento autorizado e finalidade situada. Isso impede que a Missão seja apenas uma intenção vaga, uma tarefa apressada ou uma execução escondida.
+Uma Missão minimamente inteira precisa ter contexto e materialidade suficientes no [Mapa Agêntico](agentic-map.md), forma reconhecível, movimento autorizado e finalidade situada. Ela também precisa ter um contorno de responsabilidade visível que a distingue de uma tarefa. Isso impede que a Missão seja apenas uma intenção vaga, uma tarefa apressada ou uma execução escondida.
 
 ## Perguntas do teste
 
@@ -19,7 +19,10 @@ Uma Missão minimamente inteira responde quatro perguntas:
 | Eficiente | Que movimento está autorizado agora, e a Missão continua sem execução escondida? | Separar formulação de execução prematura |
 | Final | Por que essa intenção importa agora? | Situar a finalidade da Missão |
 
-Além dessas quatro perguntas, a versão experimental aplica uma verificação de reconhecimento comum: Method, Protocol, Mirror Extension e Harness conseguem reconhecer os mesmos campos mínimos?
+Além dessas quatro perguntas, a versão experimental aplica duas verificações de reconhecimento:
+
+- Method, Protocol, Mirror Extension e Harness conseguem reconhecer os mesmos campos mínimos?
+- isso é uma Missão ou é apenas uma tarefa dentro de um quadro assumido?
 
 ## Critério de passagem
 
@@ -64,6 +67,12 @@ Ele ajuda o [Participante](participant.md) a perceber se já existe forma sufici
 Um agente pode usar o teste como guarda de fase.
 
 Se o usuário pede execução quando a Missão ainda não está inteira, o agente deve ajudar a formular antes de agir. Se o usuário adiciona detalhes demais, o agente pode separar formulação de execução.
+
+## Fronteira com tarefa
+
+Uma tarefa pode ter intenção, Entrega e Evidência. O Teste de Inteireza não deve tratar esses elementos, sozinhos, como prova de Missão.
+
+Há Missão quando o Participante consegue nomear o contorno de responsabilidade: que Realização está sendo conduzida, por que ela importa agora, quem participa, que movimento está autorizado, o que conta como suficiente e o que talvez precise ser integrado.
 
 ## Fronteira
 

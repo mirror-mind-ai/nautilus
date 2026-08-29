@@ -41,7 +41,7 @@ Em seguida, leia o [Arco Conceitual](method/conceptual-arc.md) e atravesse seus 
 
 Depois avance para o crescimento em espiral: [Dinâmica do ciclo](method/realization-cycle.md), [Continuidade confiável](method/reliable-continuity.md) e [Inteligência de realização](method/realization-intelligence.md).
 
-Por fim, use [Gramática](method/grammar.md), [Teste de Inteireza](method/integrity-test.md), [Influências aristotélicas](method/aristotelian-influences.md), [Família Nautilus](method/family.md) e [Identidade](method/identity.md) para aprofundar a estrutura do método.
+Por fim, use [Gramática](method/grammar.md), [Teste de Inteireza](method/integrity-test.md), [Extrair Missões de Interações Humano-Agente](method/practices/extract-missions-from-agent-human-interactions.md), [Influências aristotélicas](method/aristotelian-influences.md), [Família Nautilus](method/family.md) e [Identidade](method/identity.md) para aprofundar a estrutura e a prática do método.
 
 Os [Casos canônicos](cases/index.md) existem para pressionar a linguagem contra situações reais.
 

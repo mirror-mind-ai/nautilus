@@ -6,7 +6,7 @@ The [Mission](mission.md) Integrity Test verifies whether a Mission is sufficien
 
 The test implicitly rests on the Aristotelian reading of the four causes. See [Aristotelian influences](aristotelian-influences.md).
 
-A minimally whole Mission needs enough context and materiality in the [Agentic Map](agentic-map.md), recognizable form, authorized movement, and situated finality. This prevents the Mission from being only a vague intention, a rushed task, or hidden execution.
+A minimally whole Mission needs enough context and materiality in the [Agentic Map](agentic-map.md), recognizable form, authorized movement, and situated finality. It also needs a visible responsibility frame that distinguishes it from a task. This prevents the Mission from being only a vague intention, a rushed task, or hidden execution.
 
 ## Test questions
 
@@ -19,7 +19,10 @@ A minimally whole Mission answers four questions:
 | Efficient | What movement is authorized now, and does the Mission remain without hidden execution? | Separate formulation from premature execution |
 | Final | Why does this intention matter now? | Situate the Mission's finality |
 
-Beyond these four questions, the experimental version applies a common recognition check: can Method, Protocol, Mirror Extension, and Harness recognize the same minimal fields?
+Beyond these four questions, the experimental version applies two recognition checks:
+
+- can Method, Protocol, Mirror Extension, and Harness recognize the same minimal fields?
+- is this a Mission, or is it only a task inside an assumed frame?
 
 ## Passing criterion
 
@@ -64,6 +67,12 @@ It helps the [Participant](participant.md) perceive whether there is enough form
 An agent can use the test as a phase guard.
 
 If the user asks for execution when the Mission is not yet whole, the agent should help formulate before acting. If the user adds too many details, the agent can separate formulation from execution.
+
+## Task boundary
+
+A task may have intention, Delivery, and Evidence. The Integrity Test should not treat those elements alone as proof of Mission.
+
+A Mission is present when the Participant can name the responsibility frame: what Realization is being conducted, why it matters now, who participates, what movement is authorized, what counts as sufficient, and what may need Integration.
 
 ## Boundary
 

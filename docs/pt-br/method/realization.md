@@ -42,6 +42,14 @@ Publicar um livro pode ser Realização. Ter leitores é Impacto. A quantidade d
 
 O método permanece operacionalmente disciplinado pela Realização porque Realização nomeia a parte que os Participantes conseguem conduzir com mais agência: dar forma, disponibilizar, evidenciar e integrar. Seu centro mais amplo é a Geração de Valor. Impacto pode ser desenhado, convidado, aferido e aprendido, mas não controlado do mesmo modo.
 
+## Realização e Missão
+
+[Missão](mission.md) é Realização em condução.
+
+Uma Missão nomeia o movimento enquanto ele ainda precisa ser carregado. Realização nomeia o reconhecimento de que o movimento tornou valor disponível no Território Humano. Por isso, uma Missão ainda não é uma Realização. Ela pode falhar, ser reformulada, produzir Realizações parciais ou revelar que a Realização desejada ainda não foi bem nomeada.
+
+Essa distinção preserva a sequência prática do método: Missão conduz, Evidência sustenta reconhecimento, Realização nomeia o que se tornou disponível e Integração preserva o que foi aprendido.
+
 ## Realização e Evidência
 
 [Evidência](evidence.md) é o que sustenta o reconhecimento da Realização.

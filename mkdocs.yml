@@ -57,6 +57,8 @@ nav:
       - Grammar: method/grammar.md
       - Mission Integrity Test: method/integrity-test.md
       - Glossary: method/glossary.md
+  - Practices:
+      - Extract Missions from Agent-Human Interactions: method/practices/extract-missions-from-agent-human-interactions.md
   - Canonical cases:
       - Overview: cases/index.md
       - Assessment retry: cases/retry-assessment.md

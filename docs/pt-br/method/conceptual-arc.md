@@ -46,9 +46,9 @@ Pode ter natureza humana ou agêntica. O conceito permite colaboração sem fing
 
 ## Missão
 
-[Missão](mission.md) é uma intenção nomeada de geração de valor por meio de realização.
+[Missão](mission.md) é uma unidade de geração de valor por meio de Realização em condução.
 
-Ela dá forma ao movimento antes da execução. Na versão atual, a Missão permanece formulativa: nomeia direção sem contrabandear entrega, evidência ou fechamento antes da hora.
+Ela dá forma ao movimento antes da execução e torna legível o contorno de responsabilidade. Na versão atual, a Missão permanece formulativa: nomeia direção sem contrabandear entrega, evidência ou fechamento antes da hora, e sem inflar toda tarefa em Missão.
 
 ## Entrega
 

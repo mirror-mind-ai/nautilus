@@ -40,9 +40,11 @@ The current version recognizes Participants, but does not yet define Role and Au
 
 ## Mission
 
-A Mission is a named intention of value generation through realization.
+A Mission is a unit of value generation through Realization in conduct.
 
-It gives form to the movement before execution. In the current slice, Mission is formulative. It does not yet execute, assign roles, produce delivery, collect evidence, mark realization, or integrate learning.
+It gives form to the movement before execution and carries the responsibility frame that distinguishes it from a task. A task executes inside an assumed frame. A Mission makes the frame readable: value, purpose, Participants, authority, proportional scope, possible Delivery, Evidence, and Integration.
+
+In the current slice, Mission is formulative. It does not yet execute, assign full roles, produce delivery, collect evidence, mark realization, or integrate learning.
 
 A minimal Mission has `id`, `title`, `purpose`, and `status`.
 
@@ -64,7 +66,9 @@ Evidence must be proportional to the Delivery. A document may have the file itse
 
 [Realization](realization.md) is the recognition that an intention crossed the field, touched the [Human Territory](human-territory.md), and made something available or different there.
 
-It is not synonymous with completed task. A task may end without Realization when it does not preserve meaning, evidence, availability, or learning. A Realization may include a shift in understanding, stabilization of language, publication, availability, or change of state, as long as there is proportional Evidence and recognizable difference in the Human Territory.
+Mission and Realization are different moments of one movement. Mission is Realization in conduct, before recognition. Realization is the recognition that value became available, sustained by Evidence.
+
+Realization is not synonymous with completed task. A task may end without Realization when it does not preserve meaning, evidence, availability, or learning. A Realization may include a shift in understanding, stabilization of language, publication, availability, or change of state, as long as there is proportional Evidence and recognizable difference in the Human Territory.
 
 ## Impact
 
@@ -87,7 +91,8 @@ Value Generation gives direction.
 Human Territory hosts Journeys.
 Journeys are crossed by Participants.
 Participants formulate Missions.
-Missions orient Deliveries.
+Missions orient tasks and Deliveries.
+Tasks may serve one or more Missions.
 Deliveries produce Evidence.
 Evidence sustains Realizations.
 Realizations may generate Impact.

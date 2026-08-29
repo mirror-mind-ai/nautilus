@@ -42,6 +42,14 @@ Publishing a book can be Realization. Having readers is Impact. The number of re
 
 The method remains operationally disciplined by Realization because Realization names the part Participants can conduct with more agency: giving form, making available, evidencing, and integrating. Its broader center is Value Generation. Impact can be designed for, invited, measured, and learned from, but not controlled in the same way.
 
+## Realization and Mission
+
+[Mission](mission.md) is Realization in conduct.
+
+A Mission names the movement while it still needs to be carried. Realization names the recognition that the movement made value available in the Human Territory. For this reason, a Mission is not already a Realization. It can fail, be reformulated, produce partial Realizations, or reveal that the desired Realization was not yet well named.
+
+This distinction preserves the practical sequence of the method: Mission conducts, Evidence sustains recognition, Realization names what became available, and Integration preserves what was learned.
+
 ## Realization and Evidence
 
 [Evidence](evidence.md) sustains the recognition of Realization.

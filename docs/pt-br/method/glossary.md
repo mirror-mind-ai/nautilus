@@ -54,7 +54,23 @@ Característica fundamental de um Participante, como humana ou agêntica. A vers
 
 ## Missão
 
-Intenção nomeada de geração de valor por meio de realização. Na versão atual, é formulativa e mínima.
+Unidade de Realização em condução. Ela nomeia um movimento antes do reconhecimento e carrega o contorno de responsabilidade que a distingue de uma tarefa.
+
+## Tarefa
+
+Unidade de execução dentro de um quadro assumido. Uma tarefa pode ter intenção, Entrega e Evidência, mas não precisa sustentar toda a responsabilidade por valor, autoridade, Participantes, suficiência e Integração.
+
+## Campo de Missões
+
+Relação visível entre Missões simultâneas, tarefas, Evidências, aprendizados e fronteiras de responsabilidade dentro de uma Jornada.
+
+## Missão cadenciada
+
+Missão que sustenta um ritmo de geração de valor ao longo do tempo em vez de produzir uma única saída fechada.
+
+## Missão construtiva
+
+Missão que cria uma nova capacidade, artefato, estrutura ou estado.
 
 ## Entrega
 
@@ -103,3 +119,7 @@ Alinhamento reconhecível entre Method, Protocol, Mirror Extension e Harness.
 ## Teste de Inteireza da Missão
 
 Instrumento para verificar se uma Missão está minimamente formulada sem carregar execução prematura.
+
+## Extrair Missões de Interações Humano-Agente
+
+Prática de observar conversas humano-agênticas reais e reconhecer se elas contêm tarefas, Missões candidatas, um campo de Missões, candidatas a Evidência ou notas de Integração.

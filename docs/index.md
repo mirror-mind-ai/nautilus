@@ -41,7 +41,7 @@ Next, read the [Conceptual Arc](method/conceptual-arc.md) and move through its c
 
 Then move into spiral growth: [Cycle dynamics](method/realization-cycle.md), [Reliable continuity](method/reliable-continuity.md), and [Realization intelligence](method/realization-intelligence.md).
 
-Finally, use [Grammar](method/grammar.md), [Mission Integrity Test](method/integrity-test.md), [Aristotelian influences](method/aristotelian-influences.md), [Nautilus Family](method/family.md), and [Identity](method/identity.md) to deepen the method's structure.
+Finally, use [Grammar](method/grammar.md), [Mission Integrity Test](method/integrity-test.md), [Extract Missions from Agent-Human Interactions](method/practices/extract-missions-from-agent-human-interactions.md), [Aristotelian influences](method/aristotelian-influences.md), [Nautilus Family](method/family.md), and [Identity](method/identity.md) to deepen the method's structure and practice.
 
 The [Canonical cases](cases/index.md) exist to press the language against real situations.
 

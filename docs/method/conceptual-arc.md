@@ -46,9 +46,9 @@ It may have human or agentic nature. The concept allows collaboration without pr
 
 ## Mission
 
-[Mission](mission.md) is a named intention of value generation through realization.
+[Mission](mission.md) is a unit of value generation through Realization in conduct.
 
-It gives form to the movement before execution. In the current version, the Mission remains formulative: it names direction without smuggling delivery, evidence, or closure too early.
+It gives form to the movement before execution and makes the responsibility frame readable. In the current version, the Mission remains formulative: it names direction without smuggling delivery, evidence, or closure too early, and without inflating every task into a Mission.
 
 ## Delivery
 
