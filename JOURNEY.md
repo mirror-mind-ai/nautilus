@@ -1,46 +1,47 @@
-# Nautilus Agentic Method
+# Nautilus
 **Status:** active
-**Stage:** Caminho fundador preparado para Builder
+**Stage:** Method consolidation after repository transfer
 
 ## Description
 
-Nautilus Agentic Method é a camada conceitual e pedagógica da família Nautilus, descrita em `docs/method/family.md`, voltada à compreensão e prática humana do método. Ele transforma a exploração do princípio "crescer sem perder a forma" em linguagem praticável para Participantes humanos e agênticos conduzirem Jornadas, formularem Missões, produzirem Entregas, reconhecerem Realizações por Evidências e integrarem aprendizado sem perder coerência.
+Nautilus is the method for agentic growth, realization and coherent expansion. It is the conceptual and pedagogical body that helps human and agentic Participants work in Journeys, formulate Missions, produce Deliveries, recognize Realizations through Evidence and integrate learning without losing form.
+
+Nautilus was previously organized as a broader family of bodies: method, protocol, Mirror extension and desktop harness. That organization has been narrowed. Nautilus now names the method itself. Mirror Desktop carries the former application body. Protocol and extension concerns should become separate implementation or integration surfaces only when they are needed.
 
 ## Current focus
 
-Destilar a versão experimental mínima do método a partir do material exploratório. O foco imediato é estabilizar a linguagem humana antes de expandir a ontologia: Jornada, Missão, Entrega, Evidência, Realização, Integração, Participante, Natureza, Papel e Autoridade.
+Consolidate the experimental method from the existing material in `docs/method/`, keeping the language human, teachable and compatible with Mirror Desktop and Mirror extension needs without turning this repository into an application or runtime implementation.
 
 ## Builder path
 
-O primeiro caminho de construção é uma fatia semântica vertical, não uma especificação completa. O método deve declarar seu nome de trabalho, sua versão experimental e uma definição curta capaz de ser espelhada pelo protocolo, pela extensão Mirror e pelo Harness.
+The first construction path remains semantic and pedagogical. The method should stabilize its name, experimental version, short definition, core concepts, Integrity Test and canonical cases before expanding the ontology.
 
-A gramática deve começar pela superfície simples da realização. Uma Jornada abriga Participantes. Participantes têm natureza humana ou agêntica. Missões organizam intenção, responsabilidade e entrega. Entregas são artefatos ou mudanças produzidas. Evidências sustentam o reconhecimento da Realização. Integração preserva o aprendizado no crescimento seguinte.
-
-A decisão nominal da exploração deve ser preservada. Participante é o termo canônico neutro. Nauta não deve entrar como categoria do método. Tripulação, Tripulante ou Navegante podem inspirar linguagem experiencial na aplicação, mas não substituem a ontologia.
+The grammar begins from realization: a Journey hosts Participants; Participants can be human or agentic; Missions organize intention, responsibility and delivery; Deliveries are produced artifacts or changes; Evidence supports the recognition of Realization; Integration preserves learning for the next growth chamber.
 
 ## Near slice
 
-A documentação fonte do método vive em `docs/method/` e deve ser mantida como especificação compreensiva da versão experimental. O viewer navegável usa MkDocs Material, configurado em `mkdocs.yml`, com instruções em `docs/viewer.md`.
+Keep `docs/method/` as the source of the experimental method specification. Keep the MkDocs viewer configured through `mkdocs.yml` and documented in `docs/viewer.md`.
 
-A próxima fatia é preencher e pressionar os dois casos canônicos: reconstrução retrospectiva do retry do assessment e formulação prospectiva de uma Missão viva, preferencialmente a logística dos livros. O objetivo é observar se a linguagem simplifica o trabalho e revela lacunas sem exigir exposição prematura da estrutura completa.
+The next slice is to press the canonical cases, especially the retrospective retry assessment and the prospective book logistics Mission, to see whether the language simplifies work and reveals gaps without exposing premature structure.
 
 ## Scope
 
-Inclui:
+Includes:
 
-- definição conceitual mínima da gramática;
-- glossário humano dos conceitos fundadores;
-- Teste de Inteireza da Missão;
-- casos canônicos anotados;
-- critérios de correspondência com protocolo, Mirror Extension e Harness.
+- conceptual method definition;
+- human glossary of core concepts;
+- Mission Integrity Test;
+- canonical annotated cases;
+- compatibility criteria for Mirror Desktop, Mirror extensions and future protocol surfaces.
 
-Fora de escopo por padrão:
+Out of scope by default:
 
-- congelar a ontologia completa;
-- definir persistência operacional;
-- implementar comandos, eventos ou aplicação;
-- transformar a metáfora náutica em nomenclatura de todo conceito.
+- application implementation;
+- runtime persistence;
+- command or event protocols;
+- broad product work belonging to Mirror Desktop;
+- using nautical metaphor as mandatory ontology for every concept.
 
-## Done condition
+## Transfer boundaries
 
-A primeira iteração estará pronta quando o método possuir nome, versão experimental, definição curta, glossário mínimo, Teste de Inteireza e dois casos canônicos capazes de pressionar a mesma gramática que o protocolo e os demais corpos reconhecem.
+The former `nautilus-agentic-method` journey is predecessor history for the method repository. Its useful content has become the active Nautilus project. Historical conversations and tasks are not bulk reassigned unless intentionally curated later.
