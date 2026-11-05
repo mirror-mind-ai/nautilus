@@ -1,0 +1,5 @@
+# The three bodies are separate repositories checked out here.
+/nautilus-app/
+/nautilus-framework/
+/nautilus-protocol/
+.DS_Store
